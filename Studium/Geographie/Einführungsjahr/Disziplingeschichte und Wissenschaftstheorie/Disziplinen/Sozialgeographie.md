@@ -1,0 +1,23 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- [[Hans Bobek]] (1947)
+	- [[Benno Werlen]] (1980er)
+	- Anssi Paasi
+- **Was:**
+	- Verhältnis Mensch und Raum
+	- Raumzentrierte Perspektive wird überdenkt, weil Gesellschaftliche Phänomene können sich räumlich zeigen / Handlungen haben räumliche Auswirkungen / lokales führt zu globalem
+	- Nicht «was passiert im Raum», sondern **«wann gewinnt Raum Bedeutung»**
+	- Regionen als durch Handeln produzierte Strukturen verstehen (Annsi Passi)
+	- Raum ist ein Produkt des alltäglichen Geografie-Machens ([[Benno Werlen]])
+	- Unter welchen Bedingungen gewinnen welche Räume an Bedeutung und welche Ziele werden durch welche Akteure durchgesetzt (Machtfrage)
+	- Es gilt die Prozesse, welche zu Dingen führen zu verstehen
+	- [[Handlungstheorien|Handlungstheoretische]] **Sozialgeographie**
+		- Geographie soll Handlung betrachten und nicht nur Raum
+		- Fragestellung: Wann und vom wem werden Raumbegriffe wie Nation, Staat, Territorium, Grenze, usw., zu welchem Zweck benutzt.
+	- [[Geographie-Machen]]
+	- Schwierig von der [[Neue Kulturgeographie|Neuen Kulturgeographie]] abzugrenzen
+	- Baut auf dem [[Possibilismus]] von [[Paul Vidal de la Blache|de la Blache]] auf

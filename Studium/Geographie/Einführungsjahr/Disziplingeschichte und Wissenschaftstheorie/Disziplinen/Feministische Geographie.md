@@ -1,0 +1,23 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- [[Linda McDowell]]
+	- [[Doreen Massey]] (1990er-Jahre)
+- **Wann:**
+	- Ab den 1970er-Jahren
+- **Was:**
+	- Bezugnahme zur [[Feministische Theorie|feministischen Theorie]]
+	- Analyse alltäglicher Diskriminierungen
+	- Beschreibung von Strukturen welche zwischen Männern und Frauen differenzieren
+	- Einfluss von Raum auf die Konstruktion von sozialen Identitäten
+	- Untersucht die Produktion und Aufrechterhaltung von Ungleichheitsfragen
+	- Verhältnis von sozialen Prozessen und deren räumlicher Organisation
+	- Angsträume → Wahrnehmungsgeographie
+	- Findet Anwendung in der Stadtforschung, Wirtschaftsgeographie
+	- Humangeographie (Stadtforschung, Raumplanung, Wirtschaft- & [[Politische Geographie -  Zweite Phase (Ab 1950)|Politische Geographie]]
+	- Physische Geographie (Vulnerabilität in Naturkatastrophen, Ernährungssicherheit, Ressourcenzugang)
+	- Postmoderne: **Auflösung des Geschlechterdualismus** → Queer Theory
+	- → Disability Studies

@@ -1,0 +1,21 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- Peter Hagget (1965)
+	- Dietrich Bartels (1968)
+- **Wann:**
+	- Ab den 1960er-Jahren
+- **Was:**
+	- Analyse von Natur- und Sozialräumen als quantifizierbare Räume
+	- Grundlage für GIS
+	- Big Data
+	- Methodenentwicklung und Theorieentwicklung
+		- Geographie als nomologische Wissenschaft
+		- Abstraktion von Einzelphänomenen und Formulierung allgemeingültiger Gesetze
+	- Erster Einsatz quantitativer Methoden in der Humangeographie
+	- Moderner Gegenentwurf zur [[Länderkunde - Regionalgeographie|Regionalen Geographie]]
+	- Paradigmenwechsel von einer beschreibenden und verordnenden Geographie zur erklärenden Raumanalyse
+	- Beispiel: Verkehrsplanung, Prognosemodelle → Bedürfnisse der Menschen wird zu wenig Beachtung geschenkt → [[Humanistic Geography - Wahrnehmungsgeographie|Humanistic Geography]]

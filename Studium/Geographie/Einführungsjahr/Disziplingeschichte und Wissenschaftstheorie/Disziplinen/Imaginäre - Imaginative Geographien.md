@@ -1,0 +1,21 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- [[Edward Saïd]] (1935 – 2003)
+	- [[Derek Gregory]] (1951*)
+- **Wann:**
+	- Ab den 1990er Jahren
+- **Wo:**
+	- Angloamerikanischer Raum
+- **Was:**
+	- Forschungsfeld, das herkömmliche tief verankerte und ganz selbstverständliche Raumvorstellungen als gesellschaftlich konstruiert versteht und diese Konstruktionen kritisch reflektiert.
+	- Neue Forschungsfrage: Welche Imaginationen haben Menschen von der Welt? Wie prägen die Wissenschaften die Imaginationen, die wir von der Welt haben?
+	- Als imaginative Geographien werden Repräsentationen von Orten, Plätzen, Regionen oder Ländern bezeichnet, die durch normative Blickwinkel entstehen.
+	- Begriff in die Humangeographie eingeführt durch [[Derek Gregory]] (1994)
+	- Kolonialismus: Eroberung durch Bedeutungszuschreibung, übertriebene und fantasievolle Reiseberichte, Abwertung des Anderen, Völkerschauen
+	- → Vergleich und Legitimation durch Moral, Rationalität, Religion, Wissenschaft und Rasse
+	- [[Orientalismus]]
+	- [[Orientalismus|Othering]]: Nach [[Edward Saïd]]: Begriff für den konstruierten Unterschied zwischen «uns» und «den anderen»

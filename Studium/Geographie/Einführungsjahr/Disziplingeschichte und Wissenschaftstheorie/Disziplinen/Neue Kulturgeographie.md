@@ -1,0 +1,21 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- [[Linda McDowell]]
+- **Wann:**
+	- Ab den 1980er-Jahren (Erst um 2000 auch im Deutschsprachigen Raum)
+- **Wo:**
+	- Angloamerikanischer Raum
+- **Was:**
+	- Untersuchungsgebiet: Nicht mehr Raum und Ort, sondern **Prozesse, Symbole, Praktiken** (die aber auf Raum und Ort bezogen sind)
+	- Globalisierung
+		- Infragestellen des Traditionellen Kulturbegriffs hinsichtlich seiner regionalen Begrenztheit (und somit den klassischen Bezugspunkt der Geographie Raum)
+	- Paradigmenwechsel
+		- **Geographie lehnt fixe Bedeutungszuschreibungen von Raum ab** (bezugnehmend zu den [[Cultural Studies]])
+	- Vorgänge-Praktik: [[Kulturlandschaftsforschung - Cultural Landscape (1925)|Kulturlandschaftsforschung/ Cultural Landscapes]]
+	- In den 1960er-1980er Jahren wurde die Kulturgeographie durch neue Theorien beeinflusst.
+	- Britische [[Cultural Studies]] (Kultur als Produkt alltäglicher Kreativität aller Menschen. Kultur ein Prozess, bei dem Sinnzuschreibungen vorgenommen werden)
+	- Französischer [[Poststrukturalismus]]] (Strukturalismus = alle kulturellen Praktiken auf einem System von Regeln und Zeichen basieren/ Poststrukturalismus = Annahmen des Strukturalismus, betont zudem das Regeln und Systeme kulturelle Praktiken nicht nur ermöglichen respektive verunmöglichen sondern einen wesentlichen Teil an ihrer Konstruktion haben)

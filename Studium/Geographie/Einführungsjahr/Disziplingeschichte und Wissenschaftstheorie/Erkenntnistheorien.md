@@ -1,0 +1,13 @@
+[[Realismus]]
+[[Rationalismus]]
+[[Idealismus]]
+[[Empirismus]]
+[[Transzendentalphilosophie]]
+[[Kritischer Rationalismus]]
+[[Positivismus]]
+[[Handlungstheorien]]
+[[Strukturalismus]]
+[[Poststrukturalismus]]
+[[Konstruktivismus]]
+[[Systemtheorie]]
+

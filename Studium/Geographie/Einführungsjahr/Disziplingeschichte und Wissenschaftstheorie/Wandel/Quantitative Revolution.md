@@ -1,0 +1,22 @@
+---
+tags:
+  - DG_WT-Wandel
+---
+
+- **Wann:**
+	- Ab den 1950er-Jahren
+- **Wo:**
+	- Beginnend in Nordamerika, rund 20 Jahre später in Europa
+- **Was:**
+	- Von der [[Länderkunde - Regionalgeographie|Länderkunde]] in eine räumliche Wissenschaft.
+	- ca. 1950 Vollerfassung der Welt, Datenerhebung, GIS eingesetzt für Krieg, Kontrollieren, Bewachen; Geographical Year 1957/58
+	- 1970er & 1980er im deutschsprachigen Raum (im Zuge der [[Raumstrukturforschung - Spatial Analysis|Raumstrukturforschung]])
+	- Computergestütztes Verfahren
+	- Statistische Methoden
+	- Ablösung der deskriptiven [[Länderkunde - Regionalgeographie|Länderkunde]]
+	- Quantitative Revolution, [[Raumstrukturforschung - Spatial Analysis|Spatial Analysis]] und die gesellschaftlichen Rahmenbedingungen von Big Data bilden den Höhepunkt von geographischer Vermessung
+	- Konsequenz der [[Geopolitik]]
+	- Kritik:
+		- Verwertungsinteressen, Brauchbarkeit
+		- Ist menschliches Handeln kausal zu erklären?
+		- Problem der Distanzfunktion (nah-fern)

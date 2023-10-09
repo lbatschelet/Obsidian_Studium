@@ -1,0 +1,53 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+ - **Wer:**
+	 - David Harvey, Yves Lacoste, [[Paul Reuber]]
+- **Wann:**
+	- Ab 1970 (Nachfolger der [[Geopolitik]])
+- **Was:**
+	- Theoretisch und methodisch vielseitige Analyse von Gesellschafts-Raum-Politik-Verhältnissen
+	- **Geographische Konfliktforschung**
+		- [[Handlungstheorien|handlungstheoretische]] Perspektiven (Handeln als Ausgangspunkt gesellschaftlicher Prozesse)
+		- Strategien und Zielen von Akteuren bei raumbezogenen Nutzungs- und Verteilungskonflikten untersuchen.
+		- Forschungsfrage: **Welche Akteure besitzen Handlungsmacht und können durch welche Handlungen ihre Interessen durchsetzen.**
+		- Konflikte drehen sich häufig um räumlich lokalisierte Ressourcen und Menschen nehmen durch ihre Handlungen an diesen Konflikten teil
+	- **Kritische Geographie**
+		- Seit den 1970er-Jahren
+		- Ansätze, die ein politisch-emanzipatorisches Ziel verfolgen.
+		- Ansätze aus dem westlichen Marxismus
+		- Forschungsfrage: Welche sozioökonomischen Ungleichheiten resultieren aus globalisierten Arbeitsbedingungen? → Kapitalismuskritik
+		- Humangeographie soll ein politisch ambitioniertes Konzept zur Analyse sozioökonomischer und räumlicher Ungleichheit auf allen Massstabsebenen sein
+		- Kritik am marktwirtschaftlich-kapitalistischen System mit Bezug zur Philosophie Marx’ (1852:115) und dem Raumkonzept von Henri Lefebvre (1974:88)
+		- **Radical Geography**
+			- David Harvey ([[Doreen Massey]])
+			- Seit den 1960er-Jahren
+			- Untergruppe der kritischen Geographie
+			- Neomarxistische Sozialtheorien
+			- Forderung nach einer kritisch engagierten Geographie
+			- Interesse an marginalisierten und ausgeschlossenen Gruppen
+	- **Critical Geopolitics**
+		- [[Konstruktivismus|Konstruktivistische]] Analyse geopolitischen Denkens
+		- Forschungsfrage: Welche Praktiken führen zur Konstruktion von geopolitischen Bildern und wie spiegeln diese Bilder Raum und politische Macht wider?
+		- Bezug zu [[Cultural Turn|Cultural Turns]]
+		- Bezug zu Ansätzen des [[Poststrukturalismus]]
+		- [[Postcolonial Turn|→ Postcolonial Turn]]
+	- **Diskurstheoretische Ansätze**
+		- Identitätspolitik und Praxis des Regierens
+		- Ziel: Wie erfolgt mit der Verknüpfung von sozialen und räumlichen Differenzierungen Objektivierung und Naturalisierung (z. B. Volk und Raum)?
+		- Bezug zu Diskurstheorien
+		- Zusammenhänge zwischen Wissen und Wahrheiten und gesellschaftlichen Machtbeziehungen
+		- Beispiel Forschungsfragen: Wie wird etwas/jemand repräsentiert? Wir können sich bestimmte politische Vorstellungen durchsetzen? In welchen Prozessen werden politische Vorstellungen sichtbar? Auf welche Rationalitäten lassen sich politische Vorstellungen zurückführen?
+	- **Feministische Geopolitik**
+		- Zusammenhang zwischen politischen / ökonomischen Praktiken und deren Auswirkungen auf die intime Alltagsphäre
+		- Alle Skalen einbindende Betrachtung, um die Ursachen sozial-räumlicher Diskriminierungen und deren Auswirkungen für das Individuum untersuchen zu können.
+		- Auswirkungen politischer Praktiken auf die Intimsphäre
+		- Bezug zu [[Feministische Theorie|feministischer Theorie]] ([[Judith Butler]], _Gender_ Troubles,1990)
+		- Beispiel Forschungsfrage: Wie hängt die US-Intervention im Irak und in Afghanistan mit häuslichem Missbrauch, der Sicherung der Grenze zwischen den USA und Mexiko oder der Drogenbekämpfung in US-Innenstädten zusammen?
+	- **Border Studies**
+		- Gesellschaftliche Praktiken der Grenzziehung und deren Bedeutung für die Alltagspraxis
+		- **Reterritorialisierung**: Grenzen im Spannungsfeld ökonomischer Transnationalisierung; Reterritorialisierung und Grenzkonflikte (Beispiel Schottland, Katalonien)
+		- **Repräsentation**: Wie wird über Grenzen gesprochen in Kultur, Medien, Schule, Geschichte, Wissenschaft und Alltag?
+		- **Praktiken**: Ex- und Inklusionspraktiken, Gefahren an Grenzen, Grenz- und Grenzregime (Beispiel: Border USA-Mexiko, Israel-Palästina, Lampedusa) → Sense of Place ([[Doreen Massey]])

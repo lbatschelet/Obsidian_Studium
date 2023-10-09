@@ -1,0 +1,24 @@
+---
+tags:
+  - DG_WT-Konzepte
+---
+
+- **Wer:**
+	- Stuart Hall (1932 – 2014)
+	- Richard Hoggart (1918 – 2014)
+- **Wann:**
+	- Ab den 1960er-Jahren
+- **Wo:**
+	- UK
+- **Was:**
+	- Basis für die [[Cultural Turn|Cultural Turns]]
+	- **Kultur als Produkt alltäglicher Kreativität aller Menschen**
+	- Damit Kritik an das Kulturverständnis, welches bis in die 1980er-Jahre galt, welches Kultur als das Produkt hervorragender Geister verstand.
+	- Untersuchung des alltäglichen Erlebens und Erfahrens von Individuen, Gruppen und Klassen.
+	- Fokus auf die soziale Gemachtheit und die gesellschaftliche Veränderbarkeit von Kultur
+	- Kultur ist kein beschreibender statischer Gegenstand, sondern ein Prozess
+	- Kultur ist Praxis der Sinnzuschreibung
+	- Untersuchen, wie Kultur hergestellt und festgeschrieben wird
+	- Das neue an den Cultural Studies ist:
+		- Sie denken Kultur als Produkt alltäglicher Kreativität aller Menschen, die täglich erschaffen wird.
+		- Sie fordern eine Konzentration auf das alltägliche Erleben und Erfahren eines Individuums, einer Gruppe, Klasse oder Gesellschaft innerhalb der Gesellschafts(raum)analyse.

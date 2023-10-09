@@ -1,0 +1,24 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- [[Edward Saïd]] (1980er-Jahre)
+	- [[Julia Lossau]] (2000er-Jahre)
+- **Wann:**
+	- Erste Phase ab den 1960er-Jahren
+	- Zweite Phase ab den 1980er-Jahren
+- **Was:**
+	- **Erste Phase:** Ab den 1960er-Jahren
+		- Untersuchung von Auswirkungen kolonialer Praktiken auf die Kultur (z. B. Religion), Wirtschaft (z. B. Arbeitsbedingungen) und Politik (z. B. westliche Bürokratisierung) kolonisierter Länder sowie die gesellschaftlichen Unabhängigkeitsprozesse von Kolonien
+	- **Zweite Phase:** Ab den 1980er-Jahre
+		- Ausweitung des Forschungsgegenstandes auf alle Formen kolonialer Machtverhältnisse in beide Richtungen
+	- Kritischer Umgang mit scheinbar objektiven Konzepten wie Demokratie, Zivilisation, Entwicklung und Vernunft.
+	- Begriffe sind Entstanden durch die Abgrenzung des _Westens_ zu _anderen Gesellschaften._
+	- Die selbstbewusste Identität Europas ist konstruiert durch Abwertungsprozesse gegenüber aussereuropäischen Gesellschaften. → [[Orientalismus|Othering]]
+	- Neue Frage: **Wie haben die Wissenschaften die Welt inszeniert?**
+	- Untersuchung der Auswirkungen des Kolonialismus
+	- Entangled History
+	- [[Orientalismus]]
+	- [[Postcolonial Turn]] Postkoloniale Ungleichheitsdimensionen werden analysiert

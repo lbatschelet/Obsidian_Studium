@@ -1,0 +1,29 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- [[Anne Buttimer]] (1938 – 2017)
+- **Wann:**
+	- 1960er-Jahre
+- **Wo:**
+	- Angloamerikanischer Raum
+- **Was:**
+	- Mensch im Mittelpunkt
+	- Verhältnis von Menschen, Natur, Raum & Zeit
+	- Kritik an [[Quantitative Revolution|quantitativen]] Methoden führte zur Evaluation von subjektiven Perspektiven (z.B. Interviews statt statistische Datenerhebung)
+	- Mittelpunkt der Analyse: die individuelle Erfahrung räumlicher Kontexte
+	- Verhalten, Gefühle und Wahrnehmung der Umgebung eines Menschen
+	- Versuch die Geografie an die Sozialwissenschaft anschlussfähig zu machen
+	- Forderung nach neuen Methoden in der Geographie
+	- Zentrale Frage: **Wie schreibt man etwas Bedeutung zu?**
+	- Forschung auf die **Bedürfnisse** ausgerichtet aber Handlungen nicht im Mittelpunkt
+	- Geographie wird politisch aktiv, da über die verschiedenen Wahrnehmungen der Menschen diskutiert werden muss
+	- Probleme für die Forschung:
+		- Wahrnehmung der Menschen sehr unterschiedlich
+		- Alle sollen zu Wortkommen – sprengt Grenzen von Zeit und Geld
+	- Mikroanalytischer Ansatz
+	- Intersubjektivität
+	- [[Konstruktivismus]], [[Kritischer Rationalismus]]
+	- Philosophische Grundlagen: Idealismus, Humanismus, Existenzialismus, Phänomenologie

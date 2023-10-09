@@ -1,0 +1,22 @@
+---
+tags:
+  - DG_WT-Wandel
+---
+
+- **Wer:**
+	- Viele junge Geograph*innen
+- **Wann:**
+	- 1960er- bis 1970er-Jahre
+- **Wo:**
+	- Deutschsprachiger Raum
+- **Was:**
+	- «Was genau ist die Aufgabe der Geografie?»
+	- Forderung nach einer problemorientierten, gesellschaftsrelevanten Forschung
+	- Spaltung in:
+		- Physische Geografie
+			- Kausal
+			- Mensch ist Objekt
+			- Ziel: Gesetze der Natur finden (nomothetisches Forschen)
+		- Humangeografie
+			- Subjekt/Akteur im Zentrum
+			- Ziel: Interpretation der sozialen Welt

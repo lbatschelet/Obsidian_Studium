@@ -1,0 +1,24 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+- **Wer:**
+	- [[Alfred Hettner]] (1859–1941)
+	- [[Ferdinand von Richthofen]] (1833–1905)
+- **Wann:**
+	- Ab 1872 (Einführung des Faches Erdkunde in Schulen) bis 1970er-Jahre Hauptaufgabe der Geographie
+- **Wo:**
+	- Deutschland
+- **Was:**
+	- Hauptanliegen: ein Bild vom Nahen zum Fernen vermitteln
+	- Geographie als [[Kausalforschung]]
+	- Ermöglicht Systematisierung der Geographie ([[Alfred Hettner|Hettner]])
+	- Gebietseinheiten in unterschiedlicher Massstabsebene als einmalig im Raum vorkommend
+	- Funktional zusammengeschlossene Gebiete als Einheit
+	- Ab den **1920er**-Jahren: Durch Kritik wurden soziale Phänomene einbezogen [[Dynamische Länderkunde|→ dynamische Länderkunde]]
+	- **1950er**-Jahre: Durch die Kritik an der [[Geopolitik]]: Rückbestimmung auf klassische geographische Tätigkeiten wie Erdbeschreibung. Deskriptive Länderkunde lebt auf.
+	- Ab **1960er-Jahren** in Kritik (Homogenisiert, Container-Raum-Denken, Stereotypisierungen, eurozentrisch …)
+	- Weitere Kritik: [[Kausalforschung|Ursache & Wirkung]] kann nicht einfach auf andere Orte übertragen werden, theorielos, nicht gesellschaftsrelevant Beschreibt:
+	- Idiographisches Forschen bildet die geographische Praxis -Nomothetisches Forschen wurde angestrebt.
+		- **Idiographisch** (beschreibend, Geographie des Besonderen): Das Besondere einer Region untersuchen (Bsp. Wie sind Schweizer Alpen entstanden)
+		- **Nomothetisch** Suche und Formulieren **allgemeingültiger Gesetze** (Bsp. Wie sind Berge entstanden?) → [[Kausalforschung]]

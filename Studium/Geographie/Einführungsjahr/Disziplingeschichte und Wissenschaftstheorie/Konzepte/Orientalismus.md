@@ -1,0 +1,22 @@
+---
+tags:
+  - DG_WT-Konzepte
+---
+
+- **Wer:**
+	- [[Edward Saïd]]
+- **Wann:**
+	- 1978
+- **Was:**
+	- Westen als «Norm», Osten als irrational
+	- Zentrale Konzept [[Postcolonial Turn|postkolonialer]] Kritik
+	- Beschreibt die asymmetrischen Machtstrukturen zwischen dem Blick «des Westens» auf «den Osten» (Orient).
+	- Analysiert ethno- und eurozentristische Perspektiven anhand des Denkens vom Westen über den Osten
+	- **Exotismus**: Romantisierung des Fremden
+	- Beschreibung des «Anderen» dient der Konstruktion des «Eigenen»
+	- Überlegenheitsgefühl gegenüber dem Orient
+	- **Othering** als einer von vielen Prozessen die zu einer fiktiven Schaffung des Orients führten:
+		- Gruppenidentitäten entstehen durch die Abgrenzung zu anderen Gruppen
+		- Gruppenidentitäten beruhen auf Homogenisierungsstrategien
+		- Abgrenzungsprozesse gehen mit einer Abwertung des “Anderen” einher
+	- Verwandt: [[Imaginäre - Imaginative Geographien|Imaginative Geographien]]

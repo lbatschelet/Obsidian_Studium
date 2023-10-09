@@ -1,0 +1,29 @@
+---
+tags:
+  - DG_WT-Paradigmenwechsel
+---
+
+- **Wer vorher:**
+	- [[Carl Ritter]]
+	- [[Alexander von Humboldt]]
+- **Wer nachher:**
+	- [[Alfred Hettner]]
+	- [[Ferdinand von Richthofen]]
+- **Wann:**
+	- Aufklärung, Industrialisierung, Kolonialisierung
+	- Mitte 17. Jhd. bis Ende 19. Jhd.
+- **Von:**
+	- Teleologischen (= Gottgegebene Erklärungsmuster) Erklärungen der Welt
+	- Natur als Bedrohung und Schöpfung von Gott
+	- Religiöse Anschauung der Geographie
+	- Vermessung der Erde als Teil des Sonnensystems (Kosmologische Schule)
+	- Reisebeschreibungen
+	- Kartieren
+	- Primär Nomothetisch (allgemeine Geographie): Suche nach Naturgesetzten
+- **Zu:**
+	- [[Kausalforschung]]
+	- [[Länderkunde - Regionalgeographie|Länderkunde]] als Zentrales Paradigma(ca. Mitte 19 Jhd. bis in die 1960er-Jahre)
+	- Primär Idiographisch (beschreibend / Geographie des Besonderen): das besondere einer Region beschreiben
+	- Institutionalisierung der Geographie → Stärkung der Geographie als Wissenschaft an Universitäten
+	- Geodeterminismus
+	- Natur als Ressource muss erschlossen werden um für den Menschen nutzbar zu werden

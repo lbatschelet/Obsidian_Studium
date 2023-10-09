@@ -1,0 +1,13 @@
+- Theoriebildendes Verfahren
+- W-Fragen
+- In der transkription kann nichts ausgelassen werden. Grundannahme ist ja das wir nichts wissen.
+- Offenes Codieren
+	- In-vivo codes (Wörter direkt aus dem Dokument)
+	- Menschen
+	- W-Fragen
+	- Prozesse
+	- Strukturen
+- Axiales Codieren
+	- Zusammenhänge erforschen
+	- Kernphänomene
+		- selektives Codieren

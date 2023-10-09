@@ -1,0 +1,30 @@
+---
+tags:
+  - DG_WT-Disziplinen
+---
+
+- **Wer:**
+	- Karl Haushofer (1869 – 1946)
+	- Rudolf Kjiellén (1864 – 1922)
+- **Wann:**
+	- 1924 – 1945
+- **Wo:**
+	- Kolonialmächte
+- **Was:**
+	- Aufbauend auf [[Politische Geographie -  Erste Phase (vor dem 1. Weltkrieg)]]
+	- Startpunkt geopolitischen Denkens
+	- **Geographie als politische Praktik**
+	- Anwendung Evolutionstheorie auf menschliche Gesellschaften
+	- Naturdeterminismus/Geodeterminismus + Sozialdarwinismus = Geopolitik
+	- Basiert auf den Thesen, dass:
+		- Politische Vorgänge auf einer Erdgebundenheit beruhen
+		- Die kulturelle Entwicklung ebenso wie die natürliche Selektion beim Kampf ums Dasein verstanden werden kann.
+	- Konsequenz: → [[Politische Geographie -  Zweite Phase (Ab 1950)]]
+		- 1950er: Rückbestimmung auf klassische geographische Tätigkeiten wie Erdbeschreibung. [[Länderkunde - Regionalgeographie|Deskriptive Länderkunde]] lebt auf.
+	- Lehre über den Staat als geographischer Organismus oder Erscheinung im Raum (Kjellén)
+	- Lehre von der Erdgebundenheit der politischen Vorgänge
+	- Nation
+		- Grenzen und Territorien gewinnen an Bedeutung
+		- **«Es gibt kein Volk ohne Raum» (Mathy 1866)**
+		- Erhielt mit der Gründung der Nationalstaaten vor 150 Jahren Aufschwung
+		- “Purification of space”: In einem Raum gibt es nur Platz für eine Rasse/Kultur
