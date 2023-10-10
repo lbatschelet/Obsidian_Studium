@@ -11,11 +11,28 @@
             "id": "7d22ad36fa66dbf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Inhaltsanalyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e77162269eba96f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "778f46aa323e3f6c",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md"
+              }
             }
           }
         ]
@@ -138,6 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d22ad36fa66dbf0",
-  "lastOpenFiles": []
+  "active": "e77162269eba96f9",
+  "lastOpenFiles": [
+    "Pasted image 20231010085532.png",
+    "Pasted image 20231010085245.png",
+    "Pasted image 20231010085221.png",
+    "Pasted image 20231010082940.png",
+    "2023-10-10.md",
+    "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
+    "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Inhaltsanalyse.md",
+    "Ressourcen/Pasted image 20231009140650.png",
+    "Studium/Geographie/Aufbaustudium/Soil Science 1/Soil Science Vorlesung.md",
+    "Ressourcen",
+    "Studium/Geographie/Aufbaustudium/Geoprocessing"
+  ]
 }
