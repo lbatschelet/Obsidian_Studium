@@ -87,3 +87,45 @@ id1.1-->|> 0.4| id2.2
 - Schneemonitoring während der Polarnacht oder bei Bewölkung ist nur mit Sensoren möglich, die im Mikrowellenbereich (passiv oder RADAR) arbeiten.
 - Die Ableitung des Schneewasser-Äquivalent ist in Gebirgsräumen mit grossen Fehlern behaftet.
 - Lösung: Kopplung von Fernerkundungsprodukten mit detailierten Punktmessungen und Modellen.
+
+
+```mermaid
+graph TD
+
+id1.1(Import<br>Channel 2) --->|a| id2.1(ARI<br>a - b)
+id1.2(Import<br>Channel 5) --->|b| id2.2(ARI<br>a + b)
+
+id1.1 --->|a| id2.2
+id1.2 --->|b| id2.1
+
+id2.1 --->|a| id3.1
+id2.2 --->|b| id3.1
+
+id3.1(ARI<br>a / b)
+
+
+id3.1 ---> id4.1
+id4.3 ---> id4.2
+
+id4.1(THR<br>min = 0.4)
+id4.2(THR<br>min =150)
+id4.3(Import<br>Channel 1)
+
+id4.1 ===> id5.1
+id4.2 ===> id5.1
+
+id5.1(AND)
+id5.2(Import<br>Channel 1,2,3)
+
+id5.1 ===> id6.1
+id5.1 ===> id6.2
+id5.2 ---> id6.2
+id3.1 ---> id6.1
+
+id6.1(Viewer)
+id6.2(Export)
+
+```
+
+
+

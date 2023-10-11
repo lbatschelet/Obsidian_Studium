@@ -478,7 +478,7 @@ Fine earth fraction
 | Clay < 2 µm     | 2.0-0.63 µm | 0.63-0.2 µm | < 0.2 µm   |
 
 ![[Pasted image 20231009152531.png]]
-#### Grain size and soil functions
+### Grain size and soil functions
 - Soil physical properties
 	- The sandier, the more permeable, the less water storage, because of large pores
 	- The more clayey, the more impermeable, the higher the water storage and the more stagnant water, because of fine pores
