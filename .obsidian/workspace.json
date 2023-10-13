@@ -4,79 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "69984d89c9737a96",
+        "id": "18bfdd0792be0e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "7d22ad36fa66dbf0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Ressourcen/Pasted image 20231011104720.png"
-              }
-            }
-          },
-          {
-            "id": "71cc46f9de0f848b",
+            "id": "eac959e2833c2afb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd67dee921b76fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e77162269eba96f9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Ressourcen/Pasted image 20231010085532.png"
-              }
-            }
-          },
-          {
-            "id": "06bc55de6a73e3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5ffc66a4f4c46a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Soil Science 1/Soil Science Vorlesung.md",
+                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "778f46aa323e3f6c",
@@ -142,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
+                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
+                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md"
+                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md"
               }
             }
           }
@@ -205,15 +149,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd67dee921b76fc1",
+  "active": "eac959e2833c2afb",
   "lastOpenFiles": [
-    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
-    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
-    "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 03.md",
+    "Pasted image 20231012113444.png",
+    "Pasted image 20231012112506.png",
     "Ressourcen/Pasted image 20231011104720.png",
+    "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 03.md",
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
+    "Studium/Geographie/Einführungsjahr/Disziplingeschichte und Wissenschaftstheorie/Erkenntnistheorien/Poststrukturalismus.md",
+    "Ressourcen/Pasted image 20231010085532.png",
+    "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
+    "Pasted image 20231012104550.png",
+    "Pasted image 20231012103916.png",
+    "Pasted image 20231012103307.png",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie",
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md Alias",
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
     "Studium/Informatik/Programmierung 1/Serien",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen",
-    "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
     "Ressourcen/Pasted image 20231011115236.png",
     "Ressourcen/Pasted image 20231011114712.png",
     "Excalidraw/Drawing 2023-10-11 11.26.37.excalidraw.md",
@@ -222,12 +176,7 @@
     "Ressourcen/Pasted image 20231011112250.png",
     "Studium/Geographie/Aufbaustudium/Soil Science 1/Soil Science Vorlesung.md",
     "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Inhaltsanalyse.md",
-    "Ressourcen/Pasted image 20231010085532.png",
-    "Ressourcen/Pasted image 20231011105124.png",
     "Studium/Geographie/Aufbaustudium/Hydrologie I",
-    "Ressourcen/Pasted image 20231010082940.png",
-    "Ressourcen/Pasted image 20231010085245.png",
-    "Ressourcen/Pasted image 20231010085221.png",
     "Studium/Informatik/Programmierung 1/Vorlesung 03.pdf",
     "Studium/Informatik/Programmierung 1/Woche 03.md",
     "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
