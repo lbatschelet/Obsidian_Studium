@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce9cc5590e1aa01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 05 - Einführung und Motivation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a741f2ad7315943a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06 - Variablen und Listen.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "622d426c93ecdc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06B - Variablen und Listen.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1f9953d4f64f181b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 07 - Schleifen und Bedingungen.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "669e798e51cb0698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 08 - Standardmodule verwenden.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -69,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "778f46aa323e3f6c",
@@ -86,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 08 - Standardmodule verwenden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 08 - Standardmodule verwenden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md"
+                "file": "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 08 - Standardmodule verwenden.md"
               }
             }
           }
@@ -139,33 +199,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eac959e2833c2afb",
+  "active": "669e798e51cb0698",
   "lastOpenFiles": [
+    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 07 - Schleifen und Bedingungen.md",
+    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 08 - Standardmodule verwenden.md",
+    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06 - Variablen und Listen.md",
+    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06B - Variablen und Listen.md",
+    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 05 - Einführung und Motivation.md",
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
+    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften",
     "Pasted image 20231012113444.png",
     "Pasted image 20231012112506.png",
     "Ressourcen/Pasted image 20231011104720.png",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 03.md",
-    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
     "Studium/Geographie/Einführungsjahr/Disziplingeschichte und Wissenschaftstheorie/Erkenntnistheorien/Poststrukturalismus.md",
     "Ressourcen/Pasted image 20231010085532.png",
     "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
-    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
     "Pasted image 20231012104550.png",
     "Pasted image 20231012103916.png",
     "Pasted image 20231012103307.png",
     "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md Alias",
-    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
     "Studium/Informatik/Programmierung 1/Serien",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen",
     "Ressourcen/Pasted image 20231011115236.png",
@@ -173,7 +239,6 @@
     "Excalidraw/Drawing 2023-10-11 11.26.37.excalidraw.md",
     "Excalidraw",
     "Ressourcen/Pasted image 20231011112336.png",
-    "Ressourcen/Pasted image 20231011112250.png",
     "Studium/Geographie/Aufbaustudium/Soil Science 1/Soil Science Vorlesung.md",
     "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Inhaltsanalyse.md",
     "Studium/Geographie/Aufbaustudium/Hydrologie I",
