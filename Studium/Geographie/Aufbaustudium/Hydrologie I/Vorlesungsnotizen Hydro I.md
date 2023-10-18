@@ -538,6 +538,50 @@ https://www.youtube.com/watch?v=-5NFwfQM6MI
 	- oft schlecht abgebildet, vor allem in Bergregionen
 	- Klimamodelle simulieren Interaktion mit Grundwasser häufig nicht
 
+## Grundwassernutzung
+
+- Verbrauchsnutzung
+	- Nachhaltig := Verbrauch ≤ Neubildung
+- Nutzung ohne Verbrauch
+	- Geothermie etc.
+- ![[Pasted image 20231018112022.png]]
+- Grundwasser in der Schweiz ca 80 % des Trinkwassers
+	- Aber stark geschätzt. Wenig Statistiken (unglaublich aber wahr....)
+	- Problem Nitrat und Pflanzenschutzmittel
+	- Atrazinrückstände noch nach 10 Jahren verbot nachweisbar
+	- Schadstoffe im Boden können remobilisiert werden (bspw. durch Pumpen), oder durch aussergewöhnliche hydrologische Ereignisse
+	- **Grundwasserschutzzonen**
+		- Schutzzonen müssen um alle **Grundwasserfassungen** herum ausgeschieden werden, die im _öffentlichen Interesse_ liegen
+		- Wichtigstes Instrument des **planerischen Grundwasserschutzes**
+		- einzelne Zonen sind im Schutzzonenplan definiert
+			- Im Schutzzonenreglement sind Nutzungseinschränkungen festgelegt
+		- Abstufungen
+			- **S1, unmittelbare Umgebung**: mindestens 10 m: 
+				- keine Bauten, Eingriffe, eingezäunt
+			- **S2**: Schutz vor Verunreinigungen, Krankheitserregernkeine Gülle, 
+				- kein Versickern von Abwasser
+			- **S3**: soll sicherstellen, dass bei einem Unfall genügend Zeit& Raumzur Verfügung stehen, um eine Gefahr für das gefasste Trinkwasser abzuwehren
+				- keine gefährlichen Bauten, Wärmegewinnung
+			- ![[Pasted image 20231018113027.png]]
+				- Asymetrie durch dominante Fliessrichtung von rechts nach links 
+		- Schutz von Schutzzonen
+			- Flächennutzungskonflikte
+				- Druck durch Ausdehnung von urbanen Flächen, Altlasten und Landwirtschaft
+			- Nur 60 % der Schutzzonen sind nach den heute gültigen Vorgaben rechtlich verbindlich geschützt
+			- Güterabwegungen
+			- ![[Pasted image 20231018113825.png]]
+
+> [!Zusammenfassung]
+>  - Grundwasserneubildung, -einzugsgebie
+> 	 - Regenerationsfähigkeit
+>  - Grundwasserleitertypen (Poren-, Kluft, - Karst-)
+> 	 - Grundwasserstockwerke, Grundwassermächtigkeit, -flurabstand, artesischer Brunner, gespannter Grundwasserleiter, Verweildauern
+>  - Messung:
+> 	 - Grundwasserstand, Piezometer, Potenzialgradient, Darcy-Gleichung, Leitfähigkeiten (Grössenordnung)
+>  - Wechselwirkung mit Oberflächengewässer
+> 	 - Infiltration / Exfiltration, lokal & regional
+>  - Nachhaltige Grundwassernutzung, Schutzzonen
+
 
 
 # 7       Einzugsgebiet & Gerinneabfluss
