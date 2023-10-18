@@ -463,6 +463,83 @@ https://www.youtube.com/watch?v=-5NFwfQM6MI
 
 # 6       Grundwasser
 
+> [!Definition]
+> - unterirdisches Wasser der gesättigten Zone,
+> 	- Boden - & Gesteinshohlräume vollständig mit Wasser gefüllt
+> 	- Bereich, wo Wasser nur der Schwerkraft unterliegt
+> - Gesättigte Zone: auch phreatischeZone genannt.
+> - Kapillarsaum (Haftwasser) wird _nicht_ dem Grundwasser zugerechnet
+
+- Grundwasserneubildung
+	- Hängt Eng mit den Oberflächenprozessen zusammen
+	- ![[Pasted image 20231018102025.png]]
+		- Beschrieb der Flüsse in den Folien!
+	- $Q_{seep}$ : Teil des Niederschlags, der in den Boden **infiltriert** ist und _nicht_ in der durchwurzelten Bodenzone _zurückgehalten_ wird
+		- Vertikale Bewegung in der ungesättigten Zone: Perkolation (=Durchsickerung)
+		- Teil, der das Grundwasser erreicht: Versickerung
+	-  2 Mechanismen
+		- direkte Neubildung aus infiltriertem und danach versickertem **Niederschlag**
+		- indirekte Neubildung entlang von **Gerinnen**, via Exfiltration aus dem Gerinne
+	- Wasserhaushaltsgleichung: $$Annahme: \frac{\Delta S}{\Delta t}=0 \Rightarrow G_{neu} = P-E-T-Q_D$$
+		- $Q_D:$ Direkter Abfluss, oberirdisch in einem Gewässer
+	- Grundwassereinzugsgebiet:
+		- Stimmt *nicht* mit oberirdischem Einzugsgebiet überein
+			- Unterirdische Zuflüsse sind die Regel
+			- Versickerung aus oberirdischem Einzugsgebiet ist nur ein Teil der Grundwasserneubildung
+			- ![[Pasted image 20231018102811.png]]
+	- Grundwasserleiter
+		- ![[Pasted image 20231018102832.png]]
+		- ![[Pasted image 20231018102915.png]]
+		- Porengrundwasserleiter
+			- Typisch Mittelland
+		- Kluft-GWL
+			- Typisch Alpenraum
+		- Karst-GWL
+			- Typisch Jura
+	- ![[Pasted image 20231018103147.png]]
+	- Verweildauern
+		- ![[Pasted image 20231018103313.png]]
+	- Grundwasserstockwerke
+		- Voraussetung für Porengrundwasserleiter
+			- wasserstauende Schichten
+		- Ausbildung mehrerer Stockwerke möglich
+		- *Grundwasserflurabstand:* wie weit ist die Grundwasseroberfläche von der Bodenoberfläche entfernt
+		- *Grundwassermächtigkeit:* Differenz zwischen Grundwasseroberfläche und stauender Schicht
+	- *Gespannter Grundwasserleiter:* Grundwasserleiter der von zwei Grundwassernichtleitern begrenzt wird und dadurch unter Druck steht
+		- artesische Brunnen
+		- Bsp. *Venoge:* "plötzliches" entstehen eines Flusses
+- Quantifizierung
+	- Schlüsselvariable: *Grundwasserstand*
+		- Dynamik lässt sich ableiten
+	- Methoden:
+		- Instrumente die die Wasseroberfläche erkennen
+			- Lichtlot
+			- Drucksonde
+			- Piezometer
+				- Gespannter Grundwasserleiter verfälscht klassische Methoden, da der tatsächliche Grundwasserspiegel tiefer liegt, als der gemessene
+
+| Lockersediment           | kf-Werte               | Geschwindigkeit         |
+|--------------------------|------------------------|-------------------------|
+| reiner Kies              | 10^-1–10^-2 m/s        | 10 km/d – 1 km/d       |
+| grobkörniger Sand        | um 10^-3 m/s           | 100 m/d                 |
+| mittelkörniger Sand      | 10^-3–10^-4 m/s        | 100 m/d bis 10 m/d      |
+| feinkörniger Sand        | 10^-4–10^-5 m/s        | 10 m/d bis 1 m/d        |
+| schluffiger Sand         | 10^-5–10^-6 m/s        | 1 m/d bis 10 cm/d       |
+| toniger Schluff          | 10^-6–10^-9 m/s        | 10 cm/d bis 0.01 cm/d   |
+| Ton                      | < 10^-9 m/s            | < 0.01 cm/d             |
+
+- **Verbindung Grundwasser - oberirdische Gewässer**
+	- Grundwasser speist oberirdische Gewässer
+		- via Quellen
+		- via Austausch zw. Gewässersohle & Grundwasserleiter
+	- Grundwasser = Basisabfluss in Fliessgewässern
+	- Grundwasser kann *ex- **und** infiltireren* 
+		- Bsp. Emme die teilweise ganz infiltriert
+	- oft schlecht abgebildet, vor allem in Bergregionen
+	- Klimamodelle simulieren Interaktion mit Grundwasser häufig nicht
+
+
+
 # 7       Einzugsgebiet & Gerinneabfluss
 
 # 8       Abflussbildung

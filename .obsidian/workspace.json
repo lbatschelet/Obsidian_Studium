@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
-                "mode": "preview",
-                "source": true
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "778f46aa323e3f6c",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md"
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md"
               }
             }
           }
@@ -163,6 +164,14 @@
   },
   "active": "23af3f24efc8f978",
   "lastOpenFiles": [
+    "Pasted image 20231018103313.png",
+    "Pasted image 20231018103147.png",
+    "Pasted image 20231018102915.png",
+    "Pasted image 20231018102832.png",
+    "Pasted image 20231018102811.png",
+    "Pasted image 20231018102025.png",
+    "Studium/Geographie/Aufbaustudium/Hydrologie I/Übung 2 - Hyetogramme.md",
+    "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 04.md",
     "Studium/Geographie/Aufbaustudium/Qualitative Methoden/V5 Argumente und Metaphern.md",
     "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 05 Vegetation.md",
@@ -171,14 +180,8 @@
     "Ressourcen/Pasted image 20231017084255.png",
     "Ressourcen/Pasted image 20231016154850.png",
     "Ressourcen/Pasted image 20231016154216.png",
-    "Ressourcen/Pasted image 20231016153522.png",
-    "Ressourcen/Pasted image 20231016151904.png",
-    "Ressourcen/Pasted image 20231016151706.png",
-    "Ressourcen/Pasted image 20231016143451.png",
-    "Ressourcen/Pasted image 20231012113444.png",
     "NDVI.md",
     "BHK 17.10.md",
-    "Übung 2 - Hyetogramme.md",
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default/rewrite.md",
@@ -200,8 +203,6 @@
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 10 - Weitere Datenstrukturen.md",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 07 - Schleifen und Bedingungen.md",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06B - Variablen und Listen.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06 - Variablen und Listen.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 05 - Einführung und Motivation.md",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften",
     "RESOURCES",
     "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie",
