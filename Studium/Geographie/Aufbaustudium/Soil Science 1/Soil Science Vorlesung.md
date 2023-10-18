@@ -497,3 +497,127 @@ Fine earth fraction
 - Soil stabilisation, aggregates
 - Source of C and energy
 - Soil OM, SOM = humus (Soil organic matter)
+
+### Organic Matter (OM)
+
+- Just a few percent in the soil but roughly 80% of the global carbon cycle happens in the soil
+- Stabilisation of OM
+- Sorbing capacity
+- Source of C and energy (darker soils absorb more sunlight, etc)
+- OM ist 50% Carbon
+	- Rest is H, O, N, S, P and metal cations
+- Arable Soils are Humus poor, organic matter is periodicaly taken away with harvest
+- Forest top layers, are extremly OM rich
+- Wetland soils, accumulation of OM, doesn't reach an equilibrium. Decomposition is too slow, lack of energy and oxygen
+	- If layed dry the carbon gets released
+- Less OM deeper in the soils
+- There is actually more Carbon stored in a crop soil, just because in a crop soil the carbon reached much deeper
+- The cooler and wetter you go, the more Carbon gets Stored.
+- In tropical areas, the above ground carbon mass grows (quite litteraly in the form of dense and high forrests)
+- ![[Pasted image 20231016143451.png]]
+- Carbon Stocks are much higher in the Soils than in the atmosphere
+- **Edaphon** is not part of the OM (only dead Material is part of OM)
+- **Mineralization**: complete microbial degradation to inorganic substance OM to $CO_{2}$ 
+- **Humification**: formation of Humus, protection of OM from further decomposition
+- **Decomposition**: breakdown of organic matter
+- C/N ratio as a measure for the degradablility of soils
+	- The lower the ratio the more degradable
+	- *Not quite clear to me, how the degradation works, and how the ratio decreases*
+	- $$\frac{100C}{10 N} \rightarrow \frac{10C}{10N}$$
+	- Carbon leaves into the Atmosphere
+- Woody tissue has a higher C/N Ratio and decomposes slower than i.e.  leavy tissue
+- Cellulose polymers formed from glucose monomers are harder to decompose for microbials, chrystalline fibrillar structure
+- Hemicellulose is a polymer out of different sugars, are easier to degrade, amorphous structure
+- Lignin: most common biopolymer in nature after the polysaccharides (Cellulose, Hemicellulose)
+	- Carbon Circles, leads to double bonds, harder to degrade
+	- Very strong crosslinks
+	- Not hydrolyzable
+- Lipids
+	- mostly unbranched hydrocarbon chain
+	- fatty acids
+- Cutin
+- Suberin, not decomposed by the soils
+- Protein
+	- proteins of plant and microbial tissues can be degraded by a variety of microorganisms
+- more classes in the slides, these should be the most important ones  
+- Decomposition will partly form mineralized CO2 and partly stable Organic Matter
+
+|                     | Cellulose | Hemicellulose | Lignin % DM | Protein | Lipids | C/N |
+|-------------------|----------|---------------|----------|--------|-------|----------|
+| **Spruce (Picea abies)**|          |               |          |        |       |          |
+| Wood                | 40       | 31            | 28       | <2     | 1.4   | 100-400  |
+| Bark                | 48       | 17            | 38       | <2     | 21    |          |
+| Needles             | 15       | 13            | 14-20    | 3-6    | 7     | 40-80    |
+| **Beech (Fagus sylvatica)** |          |               |          |        |       |          |
+| Wood               | 32       | 43            | 24       | 2      | 0.8   | 100-400  |
+| Bark               | 38       | 23            | 39       | 2      | 11    | 30-50    |
+| Leaves             | 20       | 17            | 11-16    | 6      | 5     |          |
+| Root wood          | 33       | 18            | 22       | 1.6    | 1.3   | 190      |
+| Fine roots         | 19       | 10            | 33       | 5.4    | 3.1   | 55       |
+| Ryegrass (shoot)   | 19-26    | 16-23         | 4-6      | 12-20  |       |          |
+| Alfalfa (shoot)    | 13-33    | 8-11          | 6-16     | 15-18  |       |          |
+| Wheat straw        | 27-33    | 21-26         | 18-21    | 3      |       | 50-100   |
+
+
+### Docomposition
+
+- Preliminary phase happens allready in the leave (i.e. Autumn, chlorophyl degrades, but carrotin not yet)
+- Initial Phase
+	- Hydrolisis and oxidation of high polymeric compounds
+	- Strong increase of microorganisms
+- Crushing Phase
+	- Litter is partly bitten, partly eaten and modified by the macrofaune
+	- incoorparation into the soil by earthworms
+- Dismantling ans conversion
+	- enzymatic cleavage of the organic fragments
+	- formation of simple inorganic components (mineralization)
+- Speed of litter degradation
+	- Litter factors
+		- N content of the substance (C/N Ratio)
+		- Lignin content (lignin/N ratio)
+		- tannin content (polyphenol/N ratio)
+	- external factors
+		- Heat /temperature
+		- Availability of H20 and O2
+		- ph
+		- Inhibitors
+- ![[Pasted image 20231016153522.png]]
+
+
+### Stabilization of organic matter in soils
+
+![[Pasted image 20231016154216.png]]
+
+- **Stabilization**:
+	- Rizosphere input
+	- Physical disconnection
+		- Stabilisation through aggregation influenced by the accesability for organisms and enzymes
+	- Sorbtion
+	- Freezing / thawing
+	- Deep soil carbon, age of carbon reflects timeescale of process
+- ![[Pasted image 20231016154850.png]]
+### Importance of OM for the soils
+
+- Nutrient source for plants (N, P and S) 
+- OM has exchange properties and can both bind/adsorb cations and attach itself to clay minerals; gradual release of (nutrient) cations
+- Promotes aggregatio nof clay particles (clay-humus complexes):
+	- stabilizes aggregates, thus reducing erosion
+- High water-binding capacity(3-5 times its own weight)
+- Light adsorption(soil temperature)
+- Catalyzes organic pollutant decomposition
+- Carbon Storage
+	- Biochar/Terra preta
+	- Permafrost carbon
+	- Peat and moors
+
+
+> [!Synthesis]
+> - The stronger the Carbon- bonds , the more stable and thus harder to degradate the soil becomes
+> - woody tissues are longer and stronger polymeric chains that make them harder to degradate
+> - Key parameter for soil health
+> - only a few % in the soil, but a big player in the global Carbon cirlce
+> - Hard do degrade matter will mostly form stable OM, Humus
+> - Forrest soils are more ruled by thei PH, than temp and humidity
+
+
+

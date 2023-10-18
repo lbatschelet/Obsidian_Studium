@@ -1,0 +1,2 @@
+- Misst aktivität und intensivität der Vegetation
+- 
