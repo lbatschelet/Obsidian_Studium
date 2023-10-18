@@ -148,9 +148,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6d45740cafe1c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Übung 2 - Hyetogramme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESOURCES/Pasted image 20231015192339.png",
+                "file": "Übung 2 - Hyetogramme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESOURCES/Pasted image 20231015192339.png",
+                "file": "Übung 2 - Hyetogramme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESOURCES/Pasted image 20231015192339.png"
+                "file": "Übung 2 - Hyetogramme.md"
               }
             }
           }
@@ -281,8 +293,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1a2f1fd9ce07870b",
+  "active": "a6d45740cafe1c67",
   "lastOpenFiles": [
+    "Hydro Uebungen2_kummulierter Niederschlag.png",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
+    "Übung 2 - Hyetogramme.md",
     "RESOURCES/Pasted image 20231012104550.png",
     "RESOURCES/Pasted image 20231012103916.png",
     "RESOURCES/Pasted image 20231012103307.png",
@@ -314,8 +329,6 @@
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06B - Variablen und Listen.md",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 05 - Einführung und Motivation.md",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
-    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
-    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften",
     "RESOURCES/Pasted image 20231012113444.png",
     "RESOURCES/Pasted image 20231012112506.png",
