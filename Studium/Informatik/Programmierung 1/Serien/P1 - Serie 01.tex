@@ -1,0 +1,469 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{\textcolor[rgb]{0.00,0.50,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{\textcolor[rgb]{0.00,0.50,0.00}{\textbf{#1}}}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={P1 - Serie 01},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{P1 - Serie 01}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+Lukas Batschelet (16-499-733)
+
+\subsection{Theorieaufgaben}\label{theorieaufgaben}
+
+\subsubsection{1. Bezeichner}\label{bezeichner}
+
+Aufgabe
+
+Finden Sie passende Bezeichner für...
+
+\begin{itemize}
+\tightlist
+\item
+  eine Java Klasse, die eine Prüfung repräsentieren soll.
+\item
+  die erreichten Punkte in einer Prüfung.
+\item
+  eine Methode, welche den Durchschnittswert aller Prüfungen berechnet.
+\item
+  die maximale Punktzahl, die in einer Prüfung erreicht werden kann.
+\end{itemize}
+
+\paragraph{Lösung}\label{luxf6sung}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{1. public class Exam \{\}}
+\NormalTok{2. int points}
+\NormalTok{3. meanPoints()}
+\NormalTok{4. final int MAX\_POINTS}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsubsection{2. Variablen und
+Eigenschaften}\label{variablen-und-eigenschaften}
+
+Aufgabe
+
+Finden Sie für die Klasse \texttt{Flight} mindestens drei Variablen
+(Eigenschaften) und drei Methoden (Verhalten/Funktionen), die in den
+Klassen modelliert werden könnten.
+
+\paragraph{Mögliche Lösung}\label{muxf6gliche-luxf6sung}
+
+\subparagraph{2.1 Variablen}\label{variablen}
+
+\begin{enumerate}
+\tightlist
+\item
+  \texttt{altitude}
+\item
+  \texttt{cargoWeight}
+\item
+  \texttt{fuelRemaining}
+\end{enumerate}
+
+\subparagraph{2.2 Methoden}\label{methoden}
+
+\begin{enumerate}
+\tightlist
+\item
+  \texttt{bookSeat()}
+\item
+  \texttt{cancelFlight()}
+\item
+  \texttt{readFuelLevel()}
+\end{enumerate}
+
+\subsubsection{3. Zitat}\label{zitat}
+
+Aufgabe
+
+Schreiben Sie eine einzige \texttt{println} Anweisung, die die folgende
+Zeichenkette als Ausgabe generiert:
+
+\begin{verbatim}
+"Mein Name ist Winston Wolfe.  
+Ich löse Probleme!", stellte er sich vor.
+Copy
+\end{verbatim}
+
+\paragraph{Lösung}\label{luxf6sung-1}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{System.out.println("\textbackslash{}"Mein Name ist Winston Wolfe. \textbackslash{}n" +}
+\NormalTok{    "Ich löse Probleme!\textbackslash{}", stellte er sich vor.");}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsubsection{4. Rechnung}\label{rechnung}
+
+Aufgabe
+
+Welchen Wert enthält die Variable \texttt{result}, nachdem folgende
+Anweisungen durchgeführt worden sind?
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int result = 25;  }
+\NormalTok{result = result + 5;  }
+\NormalTok{result = result / 7;  }
+\NormalTok{result = result * 3;  }
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\paragraph{Lösung}\label{luxf6sung-2}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int result = 25;}
+\NormalTok{result = result + 5; //30}
+\NormalTok{result = result / 7; //4}
+\NormalTok{result = result * 3; //12}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsubsection{5. Rechnung}\label{rechnung-1}
+
+Aufgabe
+
+Welchen Wert enthält die Variable \texttt{result}, nachdem folgende
+Anweisungen durchgeführt worden sind?
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int result = 15, total = 100, min = 15, num = 10;  }
+\NormalTok{result /= (total {-} min) \% num;  }
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\paragraph{Lösung}\label{luxf6sung-3}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int result = 15, total = 100, min = 15, num = 10;}
+\NormalTok{result /= (total – min) \% num;}
+\NormalTok{result = result / ((total – min) \% num;}
+\NormalTok{3 = 15 / (( 100 {-} 15) \% 10;}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsubsection{6. Operationen}\label{operationen}
+
+Aufgabe
+
+Gegeben seien folgende Deklarationen:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int result1, num1 = 27, num2 = 5;  }
+\NormalTok{double result2, num3 = 12.0;  }
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+Welches Resultat wird jeweils durch folgende Anweisungen gespeichert?
+
+\begin{enumerate}
+\tightlist
+\item
+  \texttt{result1\ =\ num1\ /\ num2;}
+\item
+  \texttt{result2\ =\ num1\ /\ num2;}
+\item
+  \texttt{result2\ =\ num3\ /\ num2;}
+\item
+  \texttt{result1\ =\ (int)\ num3\ /\ num2;}
+\item
+  \texttt{result2\ =\ (double)\ num1\ /\ num2;}
+\end{enumerate}
+
+\paragraph{Lösung}\label{luxf6sung-4}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int result1, num1 = 27, num2 =5;}
+\NormalTok{double result2, num3 = 12.0;}
+\NormalTok{a. result1 = num1 / num2; //5.0}
+\NormalTok{b. result2 = num1 / num2; //5.4}
+\NormalTok{c. result2 = num3 / num2; //2.4}
+\NormalTok{d. result1 = (int) num3 / num2; //2}
+\NormalTok{e. result2 = (double) num1 / num2; //5.4}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsubsection{7. Boolsche Operationen}\label{boolsche-operationen}
+
+Aufgabe
+
+Gegeben seien folgende Deklarationen:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int val1 = 15, val2 = 20;  }
+\NormalTok{boolean ok = false;  }
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+Was ist der Wert der folgenden Booleschen Ausdrücke?
+
+\begin{enumerate}
+\tightlist
+\item
+  \texttt{val1\ \textless{}=\ val2}
+\item
+  \texttt{(val1\ +\ 5)\ \textgreater{}=\ val2}
+\item
+  \texttt{val1\ \textless{}\ val2\ /\ 2}
+\item
+  \texttt{val1\ !=\ val2}
+\item
+  \texttt{!(val1\ ==\ val2)}
+\item
+  \texttt{(val1\ \textless{}\ val2)\ \textbar{}\textbar{}\ ok}
+\item
+  \texttt{(val1\ \textgreater{}\ val2)\ \textbar{}\textbar{}\ ok}
+\item
+  \texttt{(val1\ \textless{}\ val2)\ \&\&\ !ok}
+\item
+  \texttt{ok\ \textbar{}\textbar{}\ !ok}
+\end{enumerate}
+
+\paragraph{Lösung}\label{luxf6sung-5}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{int val1 = 15, val2 = 20;}
+\NormalTok{Boolean ok = false;}
+\NormalTok{a. true}
+\NormalTok{b. true}
+\NormalTok{c. false}
+\NormalTok{d. true}
+\NormalTok{e. true}
+\NormalTok{f. true}
+\NormalTok{g. false}
+\NormalTok{h. true}
+\NormalTok{i. true}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsection{Implementationsaufgaben}\label{implementationsaufgaben}
+
+\subsubsection{\texorpdfstring{1. Einfache Ausgabe -
+\texttt{WinterIsComing.java}}{1. Einfache Ausgabe - WinterIsComing.java}}\label{einfache-ausgabe---winteriscoming.java}
+
+Aufgabe
+
+Schreiben Sie ein Programm, welches den Satz "Winter is coming" ausgibt
+(erste Version: auf einer Zeile; zweite Version: jedes Wort auf einer
+separaten Zeile).
+
+\paragraph{Lösung}\label{luxf6sung-6}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{public class WinterIsComing \{}
+\NormalTok{    public static void main(String[] args) \{}
+\NormalTok{        System.out.println("\textbackslash{}"Winter is coming\textbackslash{}"");}
+\NormalTok{        System.out.println("\textbackslash{}"Winter \textbackslash{}n" +}
+\NormalTok{                "is \textbackslash{}n" +}
+\NormalTok{                "coming\textbackslash{}"");}
+\NormalTok{    \}}
+\NormalTok{\}}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsubsection{\texorpdfstring{2. Einfache Berechnungen -
+\texttt{Quotient.java}}{2. Einfache Berechnungen - Quotient.java}}\label{einfache-berechnungen---quotient.java}
+
+Aufgabe
+
+Schreiben Sie ein Programm, das vom Benutzer die Eingabe von zwei
+ganzzahligen Werten \texttt{a} und \texttt{b} fordert. Ihr Programm soll
+den Quotienten {} sowohl als Gleitkommazahl (d.h. ungerundet) als auch
+als ganze Zahl mit Rest berechnen und beide Ergebnisse am Bildschirm
+ausgeben. Testen Sie Ihr Programm mit beliebigen Zahlen.
+
+Beobachten Sie insbesondere das Programmverhalten bei Eingabe der Zahl
+\texttt{0} als Divisor und versuchen Sie diesen Laufzeitfehler
+abzufangen.
+
+\paragraph{Mögliche Lösung}\label{muxf6gliche-luxf6sung-1}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{import java.util.Scanner;}
+
+\NormalTok{public class Quotient \{}
+\NormalTok{    public static void main(String[] args) \{}
+
+\NormalTok{        System.out.println("Dieses Programm berechnet den Quotienten zweier Zahlen \textbackslash{}"a\textbackslash{}" und \textbackslash{}"b\textbackslash{}".");}
+        
+\NormalTok{        Scanner scan = new Scanner(System.in);}
+\NormalTok{        System.out.println("Geben Sie den Teil \textbackslash{}"a\textbackslash{}" ein:");}
+\NormalTok{        double var1 = scan.nextDouble();}
+        
+\NormalTok{        System.out.println("Geben Sie den Teil \textbackslash{}"b\textbackslash{}" ein:");}
+\NormalTok{        double var2 = scan.nextDouble();}
+        
+\NormalTok{        if (var2 != 0) \{ //Wert 0 führt zu divide by zero}
+\NormalTok{            double quotientDouble = (var1 * var1) / var2;}
+\NormalTok{            // int quotientInt = (int) var1 * (int) var1) / (int) var2;}
+\NormalTok{            int quotientInt = (int) quotientDouble;}
+\NormalTok{            System.out.println("\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\textbackslash{}n" + }
+\NormalTok{                "Der Quotient Ihrer Zahlen: \textbackslash{}t" + quotientDouble + }
+\NormalTok{                "\textbackslash{}nUnd als \textbackslash{}"int\textbackslash{}":\textbackslash{}t \textbackslash{}t \textbackslash{}t" + quotientInt);}
+\NormalTok{        \} else \{ }
+\NormalTok{            System.out.println("Geben Sie nicht 0 ein!");}
+\NormalTok{        \}}
+\NormalTok{        scan.close();}
+\NormalTok{    \}}
+\NormalTok{\}}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+\subsubsection{\texorpdfstring{3. Benutzerinteraktion -
+\texttt{HumanThermometer.java}}{3. Benutzerinteraktion - HumanThermometer.java}}\label{benutzerinteraktion---humanthermometer.java}
+
+Aufgabe
+
+Schreiben Sie ein Programm, das vom Benutzer die Eingabe einer
+Temperatur \texttt{t} fordert. Die Ausgabe Ihres Programmes definiert
+sich danach folgendermassen:
+
+Hinweis: Verwenden Sie Konstanten für beide Temperaturgrenzen.
+
+\paragraph{Mögliche Lösung}\label{muxf6gliche-luxf6sung-2}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{import java.util.Scanner;}
+
+\NormalTok{public class HumanThermometer \{}
+\NormalTok{    public static void main(String[] args) \{}
+\NormalTok{        final int LOWER\_BOUND = 15;}
+\NormalTok{        final int UPPER\_BOUND = 24;}
+        
+\NormalTok{        Scanner scan = new Scanner(System.in);}
+\NormalTok{        System.out.println("Die aktuelle Temperatur: ");}
+\NormalTok{        int temperature = scan.nextInt();}
+        
+\NormalTok{        if (temperature \textless{} LOWER\_BOUND) \{}
+\NormalTok{            System.out.println("Es ist kalt");}
+\NormalTok{        \} }
+\NormalTok{        else if ((LOWER\_BOUND \textless{}= temperature) \&\& (temperature \textless{}= UPPER\_BOUND)) \{}
+\NormalTok{            System.out.println("Es ist angenehm");}
+\NormalTok{        \} }
+\NormalTok{        else}
+\NormalTok{            System.out.println("Es ist warm");}
+        
+\NormalTok{        scan.close();}
+\NormalTok{    \}}
+\NormalTok{\}}
+\NormalTok{Copy}
+\end{Highlighting}
+\end{Shaded}
+
+
+\end{document}

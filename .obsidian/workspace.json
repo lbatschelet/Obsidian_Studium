@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "729944da748452cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4169585759b0c433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+                "file": "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+                "file": "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md"
+                "file": "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 05.md"
               }
             }
           }
@@ -162,8 +186,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23af3f24efc8f978",
+  "active": "4169585759b0c433",
   "lastOpenFiles": [
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
+    "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 05.md",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 05.md",
+    "Pasted image 20231019115348.png",
+    "Studium/Geographie/Einführungsjahr/Disziplingeschichte und Wissenschaftstheorie/Konzepte/Orientalismus.md",
+    "Pasted image 20231019113112.png",
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.tex",
+    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 8B - Standardmodule verwenden.md",
+    "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
     "Pasted image 20231018113825.png",
     "Pasted image 20231018113027.png",
     "Pasted image 20231018112022.png",
@@ -172,14 +206,11 @@
     "Pasted image 20231018102915.png",
     "Pasted image 20231018102832.png",
     "Pasted image 20231018102811.png",
-    "Pasted image 20231018102025.png",
     "Studium/Geographie/Aufbaustudium/Hydrologie I/Übung 2 - Hyetogramme.md",
     "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 04.md",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 04.md",
     "Studium/Geographie/Aufbaustudium/Qualitative Methoden/V5 Argumente und Metaphern.md",
     "Studium/Geographie/Aufbaustudium/Geoprocessing/Woche 05 Vegetation.md",
-    "Ressourcen/Pasted image 20231017090020.png",
-    "Ressourcen/Pasted image 20231017084950.png",
     "NDVI.md",
     "BHK 17.10.md",
     "textgenerator/prompts/default/summarize.md",
@@ -197,18 +228,11 @@
     "textgenerator",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 9B - Eigene Funktionen programmieren.md",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 9 - Eigene Funktionen programmieren.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 8B - Standardmodule verwenden.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 11 - Externe Pakete und Projekte.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 08 - Standardmodule verwenden.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 10 - Weitere Datenstrukturen.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 07 - Schleifen und Bedingungen.md",
-    "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften/Serie 06B - Variablen und Listen.md",
     "Studium/Geographie/Einführungsjahr/Programmieren für Naturwissenschaften",
     "RESOURCES",
     "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md Alias",
     "Studium/Informatik/Programmierung 1/Serien",
-    "Studium/Informatik/Programmierung 1/Vorlesungsnotizen",
-    "Excalidraw"
+    "Studium/Informatik/Programmierung 1/Vorlesungsnotizen"
   ]
 }
