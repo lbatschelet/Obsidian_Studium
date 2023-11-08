@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 07.md",
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "778f46aa323e3f6c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 07.md",
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 07.md",
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 07.md"
+                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md"
               }
             }
           },
@@ -161,10 +162,11 @@
   },
   "active": "5a96577a3d9a8442",
   "lastOpenFiles": [
+    "Pasted image 20231108115149.png",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 07.md",
     "Untitled 1.md",
     "Untitled.md",
     "NDVI.md",
-    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 07.md",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 07.md",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 05.md",
     "HIWI/BHK 17.10.md",

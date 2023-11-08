@@ -841,6 +841,36 @@ $$
 
 ![[Pasted image 20231108114456.png]]
 
+### Spezialfall: rain-on snow events
+
+- Regenfall auf eine fast gesättigte Schneedecke und auf grosser Fläche kann zu grossen Hochwassern führen 
+	- Bsp: Lötschental, 11.10.2011
+- Gründe
+	- Zusätzlicher Regen führt zu Sättigung: Wasser fliesst ab
+	- feuchte Atmosphäre ist effizienter im Energieaustausch mit der Schneedecke = zusätzliche Schmelze
+
+![[Pasted image 20231108115149.png]]
+
+#### Rain-on-snow bei uns?
+
+- Grosse Ereignisse sind (bis jetzt) selten bei uns
+	- Grossflächig feuchte Schneedecke
+	- + grossflächiger Regenfall
+	- selten wegen ausgeprägter Topographie
+- Heutige Modelle können das Phänomen schlecht simulieren
+
+### Zusammenfassung
+
+- Einheit: *Wasseräquivalent*
+- Prozesse: Energieflüsse, Massenflüsse
+	- Schneefall, Schneefallgrenze
+	- Strahlungsbilanz
+	- Schneeschmelze, fliesspfade
+	- Schneeabfluss aus der Schneedecke
+	- Abflussbildung unter der Schneedecke, Rolle von Bodenfrost
+- Abfluss auf Einzugsskala
+	- Spezialfall: Rain-on-snow
+
 # 9      Landnutzungs-& Klimawandel
 
 # 10   Gebirgshydrologie
