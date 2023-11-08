@@ -416,9 +416,8 @@ Umrechnung auf ILIAS hochgeladen (ig tschegges nid)
 
 #### 5.3.3 Leitfähigkeit
 
-#### 5.3.4 Potenzialkonzept
-
-- **Darcy-Gleichung$$q=\frac{Q}{A}=-K_s \frac{\Delta H}{\Delta l}$$
+#### 5.3.4 Darcy-Gleichung
+- $$q=\frac{Q}{A}=-K_s \frac{\Delta H}{\Delta l}$$
 	- Fluss $Q$ ($\frac{m^3}{s}$)
 	- Fläche $A$ ($m^2$)
 	- spezifischer Durchfluss $q$ ($\frac{m}{s}$)
@@ -588,7 +587,261 @@ https://www.youtube.com/watch?v=-5NFwfQM6MI
 
 # 8       Abflussbildung
 
-# 9       Landnutzungs-& Klimawandel
+- Abflusskonzentration
+	- Sobald das Wasser in einem Bach oder Fluss ist, nimmt die Fliessgeschwindigkeit stark zu
+- Abflussbildung:= Gesamtheit aller Prozesse auf der **Hangskala** + Abfluss im Gerinne Netzwerk
+
+- Oberflächenabfluss
+	- Wird dann sehr gut sichtbar wenn er Anthropogen beeinflusst wird (Versiegelte Oberflächen)
+	- Hortonscher Abfluss := Infiltrationskapazität < Niederschlagskapazität
+		- Grundsätzlich in der Schweiz sehr selten
+	- Oberflächenabfluss durch Sättigung
+		- Langer Regen (grosse Mengen)
+		- Wenig tiefe Böden (z.B. Berge oder schwache Porosität)
+
+
+- Bodenabfluss in lateraler Zone
+	- In der ungesättigten Zone!
+- 4 Hauptarten
+	- Matrixabfluss
+	- Präferenzieller Abfluss in Makroporen
+	- Aufsteigendes Grundwassers
+	- Return flow durch lokalen Wideraustritt von infiltriertem Wasser
+
+- Hängt von
+	- Bodentextur und–struktu rab
+	- Favorisiert durch wenig durchlässige Schichten (lokale Sättigung), starke Neigung
+
+- **Old Water-Paradox**
+	- Einzugsgebiete speichern Wasser über lange Zeiträume, aber bei Niederschlag, findet man das alte Wasser binnen Minuten im Gerinne
+		- Schnelle Grundwasserdynamik?
+		- Makroporen?
+		- "Kolbeneffekt" (Piston flow)?
+			- Heute überholt und nur sehr wenigen Orten alleine gültig
+		- Konnektivität von gesättigten Zonen?
+			- Neuer Regen verbindet altes Wasser, welches dadurch abfliessen kann
+		- Rückkopplungseffekt druch schnellen Anstieg des Grundwassers in permeablere Bodenschichten?
+- Wasser dass durch den Boden infiltirert durchläuft immer einen Reinigungsprozess
+
+![[Pasted image 20231101111726.png]]
+
+![[Pasted image 20231101111947.png]]
+
+- Hortonscher Abfluss eigentlich nur nach oben limitiert durch die Niederschlagsintensität
+
+Fazit: für sehr grosse Abflüsse handelt es sich um Hortonsche Prozesse, unabhängig von der Einzugsgebietsgrösse
+
+Je kleiner das Gebiet desto höher können die Intensitäten sein
+
+## Abflussklassifizierung
+
+- Nach Prozess (Matrix, Präferenziell, ...)
+- Nach Ort (Oberfläche, Boden, Grundwasser)
+- Nach Geschwindigkeit
+	- Oberfläche: schnell (min - h) → Direktabfluss
+	- Boden: weniger schnell (h - d)
+	- Grundwasser: langsam bis sehr langsam (months - decades) → Basisabfluss
+
+#### Wohin fliesst das wasser ab?
+
+![[Pasted image 20231108103311.png]]
+
+![[Pasted image 20231108103731.png]]
+
+### Warum sind Fliesswege wichtig?
+
+- Geschwindigkeit der Reaktion: Hochwasserrisiko
+- Grundwasserneubildung
+	- Basisabfluss, Trinkwasser
+- Wasserqualität & Transport und Abbau von Verunreinigungen (Gewässer, Grundwasser)
+	- Trinkwasser, Habitat
+- Bodenfeuchteregime der Hänge
+	- Landwirtschaft, Hangrutschungen, Habitat
+- Sedimenttransport
+- ...
+
+### Abflussbeiwert
+
+Definition (Buch, S.144), allgemein:
+
+"Der Abflussbeiwert ist der Quotient aus der über einen festgelegten Zeitraum abgeflossenen Wassermenge, d.h. dem Abflussvolumen $V_Q$ an einer Gewässerstelle, und der zeitlich und räumlich zugehörigen Niederschlagsmenge $P$"
+
+$$
+C = \frac{V_Q [mm]}{P [mm]} \text{: Abflussbeiwert [dimensionslos]}
+$$
+- Der Wert hängt vom Betrachtungszeitraum und der Betrachtungsskala ab
+- Der Wert hängt von der Vorfeuchte (Sättigung des Einzugsgebiets) ab
+- Der WErt ist nicht konstant, sondern variiert in der Zeit und zwischen Ereignissen
+
+- Werte:
+	- 0 := der gesamte Niederschlag wird im Einzugsgebiet gespeichert oder verdunstet
+	- 1 := der gesamte Niederschlag gelangt über den Betrachtungshorizont in das Gewässer
+
+#### Tab. 9-2
+
+Ansätze in der Siedlungswasserwirtschaft für maximale Abflussbeiwerte für versiegelte Teilflächen unterschiedlicher Beschaffenheit (Bischofsberger 1998).
+
+| Art und Beschaffenheit der Teilflächen           | max. Abflussbeiwert $C_{max}$ [%] |
+|--------------------------------------------------|-----------------------------------|
+| Metall- und Schieferdächer                       | 95                                |
+| Gewöhnliche Dachziegel und Dachpappe             | 90                                |
+| Flachdächer                                      | 50–70                             |
+| Asphaltplaster und dicht abgedeckte Wege         | 85–90                             |
+| Fugendichtes Pflaster aus Stein und Holz         | 75–85                             |
+| Reihenpflaster ohne Fugenverguss                 | 50–70                             |
+| Schotterstraße und Kleinsteinpflaster            | 25–60                             |
+| Kieswege                                         | 15–30                             |
+| Unbefestigte Flächen, Gleisflächen *             | 10–20                             |
+| Park und Gartenflächen *                         | 0–10                              |
+
+* werden in der Regel zu den unversiegelten Flächen gezählt
+
+### Zusammenfassung 2
+
+- Abflusskomponenten:
+	- Oberflächenabfluss (Hortonscher, Sättigung)
+	- Bodenabfluss (Matrix-, Präferenziell, Return flow, Grundwasseraufstieg)
+	- Grundwasserabfluss: Basisabfluss
+- Old-Water-Paradox
+- Unterschiedliche Prozessgeschwindigkeit und Intensität, in Abhängigkeit von der Fläche
+- Gesamtheit der Fliesswege:
+	- Hydrologische Reaktion
+- Abflussbeiwert
+
+## Schneehydrologie
+
+- Interaktion von Schneeakkumulation und –schmelze mit Abflussbildung
+- Effekt von Schneefall: 
+	- Temporäre Speicherung an der Oberfläche
+	- Veränderung der Strahlungsbilanz
+- Schneeschmelze:
+	- Teilnahme an Abflussbildung wie Regen
+
+### Einheiten
+
+- Schneehöhe \[mm]
+- Wasseräquivalent der Schneedecke \[mm]
+  → Gesamtwassermenge in der Schneedecke, fest oder 
+
+### PHYSIKALISCHE EIGENSCHAFTEN EINER SCHNEEDECKE
+
+- 3 Phasen H₂O (fest, flüssig, gasförmig)
+- Hohe Albedo:
+	- Neuschnee 0.8, aber schwankend
+- Niedrige Wärmeleitfähigkeit
+	- hohe Wärmekapazität: = guter Isolator
+- Dichte:
+	- Neuschnee 0.05 – 0.15
+	- Pulverschnee: 0.10 – 0.2
+	- Altschnee: 0.35 – 0.6
+	- Firn: 0.50 – 0.85
+
+### Prozesse
+
+- Massenfluss
+- Energiefluss
+
+![[Pasted image 20231108112216.png]]
+### Massenflüsse
+
+- Schneefall
+- Schneeinterzeption (+unloading)
+- Verdunstung / Sublimation
+- Schmelze & Abflussbildung in der Schneedecke
+- Abfliuss aus der Schneedecke
+	- Oberflächenabfluss
+	- Infiltration
+		  ↳ Bodenabfluss → Abfluss im Gerinne
+		  ↳ Perkolation → Grundwasserneubildung
+
+### Schneefall
+
+![[Pasted image 20231108112302.png]]
+
+#### Schneefallgrenze
+
+- Schneefallgrenze := Höhe, oberhalb welcher der Niederschlag zu über 50% in Form von Schnee fällt
+	- Bei uns: häufig Höhe wo Lufttemperatur ≈ 1°C
+- Atmosphäre hat eine Schmelzschicht
+	- Hier geht Schnee in Regen über
+- Mächtigkeit Schemlzschicht unterhalb der Nullgradgrenze
+	- Hängt von der Luftfeuchtigkeit ab
+	- Trockene Luft: entzieht Schneeflocken Energie durch Sublimation, Schmelze verzögert sich
+- Schneefall-Grenze, in der Regel 50-200 m  unterhalb der Nullgradgrenze
+
+### Energiebilanz einer Schneedecke
+
+Einheit: $W \cdot m^{-2}$
+
+$$
+W_{total} = W_G + W_{nied} + W_{sense} + W_{latent} + W_{RNS} + W_{RNL}
+$$
+- Bodenwärmestrom $W_G$
+- Wärme aus Niederschlag $W_{nied}$
+- Sensible Wärme $W_{sense}$
+- Latente Wärme $W_{latent}$
+- Kurzwellige Nettostahlung $W_{RNS}$ (Radiation, Net, Shortwave)
+- Langwellige Nettostahlung $W_{RNL}$ (Radiation, Net, Longwave)
+
+### Schneeschmelze
+
+- **Lokale Schmelze** (in der Schneedecke) wenn **Energiezufuhr gross genug**
+- Energie benötigt zur:
+	- Erhöhung der Temperatur auf 0°C
+		- (sensible Wärme)
+	- Schmelze
+		- (latente Wärme)
+
+## Vorlesung 1: Latente Wärme
+
+- **Latente Wärme**
+  - **Schmelze:** 334 kJ/kg
+  - **Verdunstung:** 2264 kJ/kg
+  - **Sublimation:** 2838 kJ/kg
+	  - **Grössenordnung!**
+
+#### Schmelz-Fliesspfade
+
+- Ähnlich wie beim Boden bildet auch der Abfluss auf Schnee präferenzielle Fliesswege
+- Bildung von wieder eingefrorenen Schmelzwassersäulen
+
+- Schneedecke
+	- Poröses Milieu wie Boden
+		- aber variables speichervolumen
+	- Bei Schmelze wird das Wasser zuerst im Porenraum zurückgehalten
+		- Abfluss nur wenn Rückhaltekapazität überschritten
+		- Nicht abgeflossene Schmelze: gefriert wieder
+
+### Abflussbildung
+
+![[Pasted image 20231108113642.png]]
+
+#### Abflussbildung unter der Schneedecke
+
+- Ohne Bodenfrost
+	- Schneeabfluss infiltriert bis zur Sättigung
+		- Danach Oberflächenabfluss möglich
+	- Ausnahme: auf undurchlässigem Untergrund
+- Bei Bodenfrost
+	- Hortonscher Oberflächenabfluss unter Schneedecke
+
+### Bodenfrost
+
+- Unter der Schneedecke
+	- Bei uns vor allem wenn es vor dem ersten Schneefall sehr kalt war
+		- Hinweis: Schwarzeis auf den Seen
+		- Sehr wenige bis gar keine Daten
+	- Auswirkung: Frühlingshochwasser lokal verstärkt
+- Schnee sonst als relativ guter Isolator
+
+### Einfluss von Schnee auf den Abfluss
+
+- Schnee führt zu einer zeitlichen Verschiebung und Konzentration des Abflusses im Frühjahr
+- Tiefer Winterabfluss, hoher Frühjahrs-Sommerabfluss
+
+![[Pasted image 20231108114456.png]]
+
+# 9      Landnutzungs-& Klimawandel
 
 # 10   Gebirgshydrologie
 

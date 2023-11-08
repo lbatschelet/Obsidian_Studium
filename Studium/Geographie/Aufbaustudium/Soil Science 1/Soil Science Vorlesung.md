@@ -620,4 +620,111 @@ Fine earth fraction
 > - Forrest soils are more ruled by thei PH, than temp and humidity
 
 
+## Woche 7
 
+- Water has a polarity and is a dipole. Water can also adhere to itself (water tension)
+	- Water chains are created
+- A liquid-solid interaction can be wetting or non-wetting. The liquid will be either absorbed or repelled
+	- ![[Pasted image 20231030142346.png]]
+- Smaller pores in the soil thus lead to greater capillary action
+	- → a lot of energy is necessary to remove the "bonded" water in soils
+- **Soil water potential**: determines the water movement. Difference of forces
+
+$$
+\begin{align*}
+    \Psi &= \Psi_z + \Psi_m + \Psi_g + \Psi_o \\
+    \Psi &\text{: Total potential} \\
+    \Psi_z &\text{: Gravitational potential} \\
+    \Psi_m &\text{: Matric potential} \\
+    \Psi_o &\text{: Osmotic potential} \\
+    \Psi_g &\text{: Gas potential} \quad \text{(Oft vernachlässigt)}
+\end{align*}
+$$
+$$
+\begin{align*}
+    \text{Dimension} \quad \Psi &= m \times g \times h \\
+    &\downarrow \\
+    &\text{Referenzwert: oft das Gewicht von Wasser im Kraftfeld der Erde}
+\end{align*}
+$$
+
+- Sandy layers in loamy soils can thus lead to a blockage of water. The water remains in the overlaying loamy soil until it gets totally saturated.
+	- ![[Pasted image 20231030144625.png]]
+	- If it rains on the soil, the potential will go down, and if the soil dries the potential rises because the gravitational potential doesn't change.
+![[Vorlesungsnotizen Hydro I#5.3.4 Darcy-Gleichung]]
+![[Pasted image 20231030152427.png]]
+
+- Water movements through primary and secondary pores
+	- primary: allignement of individual grains
+	- secondary: macro structure, inter-aggregation
+	- ![[Pasted image 20231030153016.png]]
+
+#### Soil solution determination methods
+
+- Tensiometers
+	- Measuring suction tension
+	- needs the pF curve for soil specific calculation of water content
+- TDR probes
+	- Time Domain Reflectometry
+
+Wasserbilanzen
+
+### Soil Structure Part 1
+
+Structure is understood to mean the arrangement and cohesion of t**he solid components of the soil** and the shape and arrangement of the cavities (pore system) between these components.
+
+#### Factors of structure formation
+
+- **Water: swelling/shrinking**
+- **Peptization and flocculation**
+- **Cation coating and cementing (OM, iron oxides, salts)**
+- Bioturbation and root growth
+- Soil management and compaction (grazing, heavy machinery)
+- Freezing / Thawing
+- Grain size of the soil = soil texture
+
+#### Shrinkage
+
+- Drainage (percolation, evaporation)
+- Particles come closer together
+- Soil surface sinks
+- soil matrix shrinks
+- bulk density increases
+- pore volume decreases
+
+Typical cracks in the soil after a dry period.
+
+#### Swelling
+
+- Precipitation, groundwater rise
+- Re-watering / Re-wetting
+- Particles absorb water
+- Water shells are getting thicker
+- Enlargement of the particles
+- Swelling
+- Cracks close
+- Soil surface is lifted
+
+> [!Important]
+> **Particles that have been shrunk will not expand to the same volume when they have been re-wetted! (Only clay soils swell to a similar level as before the shrinkage)**
+
+#### Stability of the soil structure
+
+- Stabilizing substances
+	- **Organic matter (OM)**
+		- Induce aggregate formation
+		- Increased microbial activity by OM addition (mucilage (biopolymer) can stick to inorganic particles)
+		- Faecal aggregates of earthworms and enchytraeids
+		- Root exudates, fungal hyphae, hair roots
+	- **Oxides, carbonates and salts**
+		- Fe and Al oxides:
+			- Give structure to loose aggregates (mm)
+			- Precipitation around contact point of particles
+		- Silicon oxides (Silcrete, Duripan)
+		- Carbonates (Calcrete)
+		- Ca saturation: additional stabilization of aggregates through Ca-bridges between clay and humus particles
+		- Al very stabilising, but reduces plant growth due to toxicity
+
+#### Consistency
+
+- The water content of the soil will give it its consistency

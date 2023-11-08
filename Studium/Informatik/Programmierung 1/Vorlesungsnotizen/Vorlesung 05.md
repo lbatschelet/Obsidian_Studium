@@ -1,24 +1,76 @@
 ## Aufgaben zu Kapitel 5
 
 - Weshalb besitzt die Klasse Math keinen Konstruktor?
-	- 
+	- Die Methoden der Klasse`Math`sind ***statisch*** deklariert und können "direkt" - ohne instanziiertes Objekt - aufgerufen werden.
 - Was ist die Rückgabe folgender Ausdrücke:
 	- `Math.pow(5, 3);`
+		- `125.0`
 	- `Math.sqrt(81);`
+		- `9.0`
 	- `Math.abs(15.1 - 17);`
+		- `1.9`
 	- `Math.ceil(4.5);`
+		- `5.0`
 	- `Math.floor(4.5);`
+		- `4.0`
 	- `Math.round(4.5);`
+		- `5`
+
 - Schreiben Sie eine Service Methode `distance`, welche zwei Objekte vom Typ `Point` entgegennimmt und die *Euklidische Distanz* zwischen den beiden Punkten berechnet und zurückgibt.
+
+```java
+public class Point
+	{ private int x, y;
+	
+	public Point(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+	public int getX() {
+		return this.x;
+	}
+	public int getY() {
+		return this.y;
+	}
+}
+```
+
+**Mögliche Lösung überprüfen**
+```java
+public static double distance(Point a, Point b) {
+
+	double distanceX = b.getX() - a.getX();
+	double distanceY = b.getY() - a.getY();
+
+	return Math.sqrt(Math.pow(distanceX, 2) + Math.pow(distanceY, 2));
+}
+```
+
+
 - Definieren Sie eine Variable `num`, welche den grösstmöglichen `int` speichert.
+	- `int num = Integer.MAX_VALUE;`
 - „Verpacken“ Sie den Wert `3.456` in einem Objekt.
+	- `Double d = 3.456;`
 - Gegeben sei `input = “false“;` Weisen Sie einer Variablen `on` vom Typ `boolean` den Wahrheitswert zu, der aktuell in input gespeichert ist? (Achtung: `input` könnte auch `“true“` referenzieren.)
+	- `Boolean on = Boolean.parseBoolean(input);`
 - Folgende Methode kompiliert nicht. Weshalb nicht? Korrigieren Sie — der Rückgabetyp darf dabei aber nicht verändert werden!
 
 ```java
 public String returnResult(int op1, int op2) {
 	return op1 + op2
 }
+```
+
+1. Fehlendes `;`am Ende der zweiten Zeile
+2. Datentypen sind nicht übereinstimmend
+
+```java
+return Integer.toString(op1, op2);
+```
+
+```java
+return op1 + op2 + "";
 ```
 
 - Welche Ausgaben erzeugen folgende Schleifen?
@@ -31,6 +83,16 @@ while (count != 10) {
 }
 ```
 
+```text
+3
+5
+7
+9
+11
+13
+...
+```
+
 ```java
 int i = 1, max = 3;
 while (i < max) {
@@ -39,12 +101,23 @@ while (i < max) {
 }
 ```
 
+```text
+1
+2
+```
+
 ```java
 int i = 5;
 while (i >= 0) {
 	i -= 2;
 	System.out.println(i);
 }
+```
+
+```text
+3
+1
+-1
 ```
 
 ```java
@@ -57,6 +130,14 @@ while (i < max) {
 	}
 	i ++;
 }
+```
+
+```text
+1 1
+1 0
+2 2
+2 1
+2 0
 ```
 
 - Welche Ausgabe erzeugt das folgende Code-Fragment?
@@ -74,7 +155,12 @@ Iterator<String> iter = names.iterator();
 while (iter.hasNext())
 	System.out.print(iter.next() + " ");
 	
-System.**_out_**.println(names.indexOf("Noelle"));
+System.out.println(names.indexOf("Noelle"));
+```
+
+```text
+Emilie, Maya, Maxime
+-1
 ```
 
 > [!Aufgabe]
@@ -84,9 +170,16 @@ System.**_out_**.println(names.indexOf("Noelle"));
 > 
 > Nachdem der Benutzer die Zahl korrekt erraten hat, wird er gefragt, ob er nochmals spielen will. Das Ganze wiederholt sich so lange, bis sich der Benutzer nach einigen Spielen entscheidet, das Programm zu beenden.
 
+
+## Vorprogrammieren der Klassen
+
+- `AdditionTask`
+- `TaskList`
+- `CalculationTrainer`
+
 ```mermaid
 classDiagram
-	direction LR
+	direction TD
     class CalculationTrainer {
         +main(args : String[])
     }
@@ -110,6 +203,8 @@ classDiagram
     CalculationTrainer ..> TaskList
     TaskList --o AdditionTask
 ```
+
+
 
 ## java Code Challenge
 

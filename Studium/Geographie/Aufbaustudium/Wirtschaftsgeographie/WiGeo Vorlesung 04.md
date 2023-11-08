@@ -22,7 +22,7 @@ Schreibauftrag Gefühle
 - Inspiration
 
 ## Ländliche Räume und Berggebiete
-![[Pasted image 20231012103307.png]]
+![[Pasted image 20231012103307 1.png]]
 
 - Periurbane Räume
 	- Starke Verflechtung mit Städten
@@ -59,9 +59,9 @@ Schreibauftrag Gefühle
 	- Rückgang von Einzelhandel
 	- Zersiedelung
 
-![[Pasted image 20231012103916.png]]
+![[Pasted image 20231012103916 1.png]]
 
-![[Pasted image 20231012104550.png]]
+![[Pasted image 20231012104550 1.png]]
 
 - Periphäre Regionen sind symbolisch sehr wichtig. Gerade ausserhalb der Schweiz wird viel das Bild einer ländlichen Schweiz verbreitet
 	- Was heisst das im Bezug auf Identität?
@@ -85,14 +85,14 @@ Erst seit 2015 besteht eine Politik des Bundes für ländliche Räume und Bergge
 - Potenzial von Zweitwohnungsbesitzer\*innen
 - "New Highlanders"
 
-![[Pasted image 20231012112506.png]]
+![[Pasted image 20231012112506 1.png]]
 
 1. Der Junge und Unabhängige New HighlanderEntrepreneur
 2. Der Familien New HighlanderEntrepreneur
 3. Der Neustarter New HighlanderEntrepreneur
 4. Der Eingesessene New HighlanderEntrepreneur
 
-![[Pasted image 20231012113444.png]]
+![[Pasted image 20231012113444 1.png]]
 
 
 
