@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53739f7546d63ae3",
+        "id": "8d50146bfa08bf3b",
         "type": "tabs",
         "children": [
           {
-            "id": "5a96577a3d9a8442",
+            "id": "f60f7c8c8cfe8a50",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ressourcen/Pasted image 20231115101638.png"
+              }
+            }
+          },
+          {
+            "id": "f7c4afe07644fa76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +26,16 @@
                 "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d5f9b1fe0abafc17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-15 10.49.36.excalidraw.md"
               }
             }
           }
@@ -69,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "778f46aa323e3f6c",
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+                "file": "Ressourcen/Pasted image 20231115101638.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+                "file": "Ressourcen/Pasted image 20231115101638.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md"
+                "file": "Ressourcen/Pasted image 20231115101638.png"
               }
             }
           },
@@ -160,45 +179,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a96577a3d9a8442",
+  "active": "1a2f1fd9ce07870b",
   "lastOpenFiles": [
-    "Pasted image 20231108115149.png",
+    "linearen Modells.md",
+    "Ressourcen/Pasted image 20231115101638.png",
+    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 05.md",
+    "Studium/Geographie/Aufbaustudium/Geoprocessing/Vermessung und Fotogrammetrie.md",
+    "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
+    "Ressourcen/Pasted image 20231115114710.png",
+    "Ressourcen/Pasted image 20231115114446.png",
+    "Ressourcen/Pasted image 20231115112702.png",
+    "Ressourcen/Pasted image 20231115112613.png",
+    "Excalidraw/Drawing 2023-11-15 10.49.36.excalidraw.md",
+    "Studium/Geographie/Einführungsjahr/Disziplingeschichte und Wissenschaftstheorie/Disziplinen/Kulturlandschaftsforschung - Cultural Landscape (1925).md",
+    "Excalidraw/Drawing 2023-11-14 18.54.06.excalidraw.md",
+    "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Woche 9.md",
+    "Ressourcen/Pasted image 20231110142050.png",
+    "Studium/Geographie/Aufbaustudium/Soil Science 1/Soil Science Vorlesung.md",
+    "Ressourcen/Pasted image 20231113144855.png",
+    "Ressourcen/Pasted image 20231113143354.png",
+    "Ressourcen/Pasted image 20231113143341.png",
+    "Ressourcen/Pasted image 20231113143330.png",
+    "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 08.md",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 08.md",
+    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 06.md",
     "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 07.md",
     "Untitled 1.md",
-    "Untitled.md",
     "NDVI.md",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 07.md",
-    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 05.md",
     "HIWI/BHK 17.10.md",
     "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Woche 7 mixed methods.md",
     "HIWI",
     "HIWI/Forschungswerkstatt.md",
     "HIWI/mLAB und Reproductive Geopolitics webpages.md",
-    "Ressourcen/Pasted image 20231031082445.png",
-    "Studium/Geographie/Aufbaustudium/Hydrologie I/Vorlesungsnotizen Hydro I.md",
-    "Ressourcen/Pasted image 20231108114456.png",
-    "Ressourcen/Pasted image 20231108113642.png",
-    "Ressourcen/Pasted image 20231108112302.png",
-    "Ressourcen/Pasted image 20231108112216.png",
-    "Ressourcen/Pasted image 20231108105104.png",
-    "Ressourcen/Pasted image 20231108103731.png",
-    "Ressourcen/Pasted image 20231108103311.png",
-    "Ressourcen/Pasted image 20231108103243.png",
-    "Studium/Geographie/Aufbaustudium/Geoprocessing/Vermessung und Fotogrammetrie.md",
-    "Ressourcen/Pasted image 20231107095119.png",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 04.md",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 02.md",
-    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 06.md",
     "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 06.md",
     "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Grounded Theory.md",
-    "Studium/Geographie/Aufbaustudium/Soil Science 1/Soil Science Vorlesung.md",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 03.md",
-    "Studium/Geographie/Aufbaustudium/Qualitative Methoden/Woche 6 Bild.md",
-    "Studium/Geographie/Aufbaustudium/Qualitative Methoden/V5 Argumente und Metaphern.md",
-    "Studium/Informatik/Programmierung 1/Vorlesungsnotizen/Vorlesung 05.md",
-    "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.md",
-    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 04.md",
-    "Studium/Geographie/Aufbaustudium/Wirtschaftsgeographie/WiGeo Vorlesung 05.md",
     "Studium/Informatik/Programmierung 1/Serien/P1 - Serie 01.tex",
     "textgenerator/prompts/default",
     "textgenerator/prompts",

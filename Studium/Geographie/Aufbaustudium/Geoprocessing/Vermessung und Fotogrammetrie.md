@@ -241,3 +241,19 @@ Folgende Möglichkeiten:
 - maximaler oder minimaler Farbwert 
 - möglichst „sanfte“ Farbübergänge
 
+## Abklärung der Randbedingungen
+
+Was muss abgeklärt werden?
+**Wahl des Produktes** ➔**Was braucht es**
+- Einzelbilder
+- 3D Modell
+- DEM / Orthofoto
+**Wahl des Detaillierungsgrad** ➔ **Wie genau ist genau genug?**
+- Räumliche Auflösung
+- Ansprüche an die absolute Genauigkeit
+- Ansprüche an die „Strukturschärfe“
+**Externe Randbedingungen** ➔**Welche Herausforderungen?**
+- Jahreszeit (Begrünung, Wasser, Schnee usw.)
+- Belichtung
+- Sperrgebiet
+- Budget

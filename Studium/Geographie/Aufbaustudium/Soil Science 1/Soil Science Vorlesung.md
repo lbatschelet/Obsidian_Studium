@@ -728,3 +728,103 @@ Typical cracks in the soil after a dry period.
 #### Consistency
 
 - The water content of the soil will give it its consistency
+
+
+## Soil Biota verpasst! Nachschauen!!!!!!
+
+## Soil-Liquid Interactions: Soil solution
+
+### Soil Adsorption
+- The composition and concentration of substances dissolved in soil water is controlled by a series of reactions with the solid phase:
+	- ![[Pasted image 20231113142016.png]]
+- Kationen (+); Anionen (-)
+
+![[Pasted image 20231113142314.png]]
+
+#### Surface charges of the soil components
+
+- The surface of almost all solid soil components is charged
+- Most important carriers
+	- Clay minerals
+	- Organic substance
+	- Oxides and hydroxides
+
+#### Specific surface area
+
+| Component                          | Specific surface area (m² g⁻¹) |
+|------------------------------------|-------------------------------|
+| Sand fraction                      | 0,1                           |
+| Silt fraction                      | 0,1 – 1                       |
+| Clay fraction                      | 5 - 500                       |
+| - Smectite & vermiculite (2:1)     | 600 - 800                     |
+| - Illite                           | 50 - 200                      |
+| - Kaolinite                        | 10 - 150                      |
+| Iron oxides (ferrihydrite)         | 200 - 600                     |
+| Humic substances                   | 800 - 1200                    |
+
+#### clay minerals
+
+- isomorphic substitution in three layer clay minerals increase the negative charge
+- The more H+ Ions there are the lower the pH gets.
+	- ![[Pasted image 20231113143354.png]]
+
+- $O^-$ and $OH^-$ groups on surfaces of oxides (similar to side edges of clay minerals)
+- Absorption and release of `H^+`
+  - `Fe-OH + H^+ <=> Fe-OH_2^+`
+  - `Fe-OH <=> Fe-O^- + H^+`
+
+- **Positive or negative charge:**
+  - increasing pH value (decreasing `H^+` concentration): 
+    - decrease of the positive charge and increase in negative charge
+
+- *Variable charge only (pH-dependent)*
+
+
+- The sorbtion capacity of OM depends on the pH
+
+#### Point of Zero Charge
+
+Definition: pH value at which a surface carries an equal amount of positive and negative charge, noted $pH_{PZC}$
+
+- $\Rightarrow$ a net charge of zero
+- $\Rightarrow$ pH below $pH_{PZC}$ means mostly positive charges
+- $\Rightarrow$ pH above $pH_{PZC}$ means mostly negative charges
+
+| Mineral | Point of zero charge ($pH_{PZC}$) |
+|---------|-----------------------------------|
+| **Oxides**                               |
+| Ferrihydrite | 8.5–9.5                     |
+| Goethite     | 8.5–9.5                     |
+| Hematite     | 8.5–9.5                     |
+| Gibbsite     | 8.5–9.5                     |
+| Rutile and anatase | 5.0–6.0               |
+| Birnessite   | 3.0–4.0                     |
+| **Silicates**                            |
+| allophane    | 8.0–9.0                     |
+| Kaolinite    | 4.0–5.0                     |
+| Illite, smectite | 2.0–3.0                 |
+
+
+#### Adsorption mechanisms
+
+![[Pasted image 20231113144855.png]]
+
+#### Adsorption isotherms
+
+- a barrier is reached if there is no more space for further binding
+
+### Cation Exchange
+
+- exchange is always charge by charge 
+- fully reversible
+- charge dependet
+- fast
+- a high capacity to exchange is also a high capacity to bind
+
+#### Cation Exchange capacity (CEC)
+
+- = maximum adsorbable cation quantity per mass of soil (cmol*c*/kg)
+### Anion Exchange
+### Soil pH
+### Redox processes
+

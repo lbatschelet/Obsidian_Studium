@@ -25,7 +25,7 @@ Lukas Batschelet (16-499-733)
 >    +---+---+---+---+---+---+---+
 >    | O | O | O | X | X |   | O |
 >    +---+---+---+---+---+---+---+
->    1 2 3 4 5 6 7
+>      1   2   3   4   5   6   7
 >    Player X wins!
 >    ```
 > 2. Um das Spiel zum Laufen zu bekommen, müssen Sie in der Klasse `VierGewinnt` die folgenden Methoden implementieren (die anderen gegebenen Methoden dürfen Sie nicht verändern):

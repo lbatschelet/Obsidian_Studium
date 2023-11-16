@@ -871,6 +871,133 @@ $$
 - Abfluss auf Einzugsskala
 	- Spezialfall: Rain-on-snow
 
+
+### 8.1 Charakterisierung eines Einzuggebiets & Abfluss im Gewässersystem
+
+> [!Lernziele]
+> - Erklären können, wie die Gewässernetz struktur die hydrologische Reaktion beeinflusst
+> - Morphometrische Kennzahlen kennen
+> - Hyposmetrische Kurve lesen können
+> - Konzept der Drainagedichte erklären können
+> - Strahlerordnungszahl kennen & anwenden können
+
+- Abflussreaktion eines Einzugsgebietes auf ein Niederschlagsereignis hat 2 Komponenten:
+	- Abflussbildung (oberirdische und unterirdisch) in den Hängen
+	- Wassertransport im Gerinne entlang des Gewässernetzes
+	- ![[Pasted image 20231115101638.png]]
+
+### Flussordnungszahl (Strahlerordnungszahl)
+
+- Flüsse ohne Ordnung: Flüsse ohne Zuordnung
+- Fliessen zwei Flüsse gleicher Ordnung $n$ zusammen:
+	- Zusammenfluss erhält eine Ordnungszahl $n+1$
+- Fliessen zwei Gewässer mit unterschiedlicher Ordnungszahl zusammen:
+	- höhere überträgt sich auf das resultierende Gewässer.
+
+- Etwas komplexes Konzept welches nicht direkt aussagt wie viele Zusammenflüsse oberhalb darüber liegen
+- Aber die Zahl sagt etwas über den Untergrund aus
+
+### Kompaktheit eines Einzugsgebiets
+
+Kompaktheit nach Gravélius
+
+für einen Kreis, Wert 1
+
+$p =$ Perimeter (Umfang); $A =$ Fläche
+
+$$
+K_G = \frac{p}{2\sqrt{\pi A}} \cong 0.282 \frac{p}{\sqrt{A}}
+$$
+Länge $L$ des Aequivalent-Rechtecks
+
+Rechteck mit gleicher Fläche und dem gleichen Perimeter:
+
+Gleichungen
+$$
+\begin{align}
+A &= \ell \cdot L \\
+\\
+p &= 2(\ell + L)
+\end{align}
+$$
+
+### Relief
+
+#### Hypsometrische Kurve
+
+![[Pasted image 20231115112613.png]]
+
+![[Pasted image 20231115112702.png]]
+
+#### Mittlere Neigung
+
+#### Topographischer Index
+
+$$
+i_T (x) = \ln (\frac{\alpha(x)}{\tan (\beta(x))})
+$$
+
+**Hohe Wert**für grosse drainierte Fläche & schwache Neigung = hohe Sättigungs-Wahrscheinlichkeit bei Niederschlag
+
+### Gewässernetz
+
+### Andere Kennzahlen
+
+#### Länge des Hauptgerinnes
+#### Drainagedichte
+
+### Abfluss im Gerinne
+
+- Abfluss:
+	- Beschreibt das Wasservolumen, das eine Kontrollquerschnittsfläche zu einem bestimmten Zeitpunkt durchfliesst
+- Fliessprozess im Gerinne:
+	- Beschreibt wie das Wasser im Gerinne von einem Punkt A zu einem Punkt B fliesst
+
+#### Fliessprozesse
+
+- Wasser fliesst entweder laminar oder turbulent
+	- Reynoldszahl
+- Ein offenes Gerinne hat ein Strömungsregime, das entweder *Strömen* oder *Schiessen* genannt wird; dies bestimmt wie sich Störungen lokal ausbreiten
+	- Froude-Zahl
+
+- Beispiel Hagneckkanal:
+  - Breite $B$ Kanal (hier geschätzt): 50 m
+  - Tiefe $h$ Kanal: 2m (grob geschätzt, siehe auch)
+  - Daraus: hydraulischer Radius $R_h = \frac{B \cdot h}{B + 2h} = \frac{50 m \cdot 2 m}{50 m + 2 \cdot 2 m} = 1.9 m$
+  - Kinematische Viskosität Wasser ungefähr: $1 \times 10^{-6} m^2/s$
+  - Gefälle $J$: 22m auf 8km (Wikipedia) $= \frac{22 m}{8000 m} = 2.8 \cdot 10^{-3}$
+  - Strickler Rauheitsbeiwert natürliches Flussbett, $k_{st}$: 40 m^{1/3}/s
+  - Mittlere Fließgeschwindigkeit nach Strickler (Buch. 141): $\bar{v} = \left(\frac{2}{3}\right)^{1/2} k_{st} = 3.2 m/s$
+
+$$
+Re = \frac{\bar{v} R_h}{v} = \frac{3.2 m/s \cdot 1.9 m}{1 \times 10^{-6} m^2/s} = 5.9 \cdot 10^6 >> 500
+$$
+
+#### Strömen und Schiessen
+
+![[Pasted image 20231115114446.png]]
+
+$$
+Fr = \frac{v}{\sqrt{gh}}
+$$
+![[Pasted image 20231115114710.png]]
+$g$ Erdbeschleunigung
+$h$ mittlere Fliesshöhe
+$v$ Fliessgeschwindigkeit
+
+Macht für den Hagneckkanal
+
+$$
+Fr = \frac{\bar{v}}{\sqrt{g h}} = \frac{3.2 \, \text{m/s}}{\sqrt{9.81 \, \text{m/s}^2 \cdot 2 \, \text{m}}} = 0.7
+$$
+##### Kritischer übergang $Fr = 1$
+
+- Ein Zustand mit der Froude-Zahl $Fr = 1$ entspricht der kritischen Höhe $h_c$, d.h. die Gerinneströmung nimmt an diesem Ort den Zustand mit minimalem hydraulischen Potenzial ein.
+- Superkritisches Regime: $h < h_c$ (Schießen)
+- Subkritisches Regime: $h > h_c$ (Strömen)
+- Ein solcher Zustand stellt sich z.B. bei einem Wehr ein.
+- Diese Höhe hängt nur von der Fließgeschwindigkeit und dem Bauwerk ab: d.h. so können Abflüsse gemessen werden.
+
 # 9      Landnutzungs-& Klimawandel
 
 # 10   Gebirgshydrologie
